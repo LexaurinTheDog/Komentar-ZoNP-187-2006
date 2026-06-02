@@ -307,17 +307,17 @@ Snížení podle § 31 ukládá orgán nemocenského pojištění rozhodnutím. 
 >
 > *(1) Nárok na peněžitou pomoc v mateřství má*
 >
-> *a) pojištěnka, která porodila dítě; před porodem má v době nejdříve od počátku osmého týdne před očekávaným dnem porodu nárok na peněžitou pomoc v mateřství těhotná pojištěnka,*
+> *- a) pojištěnka, která porodila dítě; před porodem má v době nejdříve od počátku osmého týdne před očekávaným dnem porodu nárok na peněžitou pomoc v mateřství těhotná pojištěnka,*
 >
-> *b) pojištěnec, pokud převzal dítě do péče nahrazující péči rodičů na základě rozhodnutí příslušného orgánu (§ 38),*
+> *- b) pojištěnec, pokud převzal dítě do péče nahrazující péči rodičů na základě rozhodnutí příslušného orgánu (§ 38),*
 >
-> *c) pojištěnec, který pečuje o dítě, jehož matka zemřela,*
+> *- c) pojištěnec, který pečuje o dítě, jehož matka zemřela,*
 >
-> *d) pojištěnec, který o dítě pečuje a je otcem dítěte nebo manželem ženy, která dítě porodila, pokud matka dítěte nemůže nebo nesmí o dítě pečovat pro závažné dlouhodobé onemocnění, pro které byla uznána dočasně práce neschopnou [§ 57 odst. 1 písm. e)] nebo pro které bylo vystaveno potvrzení podle § 67 písm. d), a nemá nárok na výplatu peněžité pomoci v mateřství [§ 36 odst. 1 písm. c)],*
+> *- d) pojištěnec, který o dítě pečuje a je otcem dítěte nebo manželem ženy, která dítě porodila, pokud matka dítěte nemůže nebo nesmí o dítě pečovat pro závažné dlouhodobé onemocnění, pro které byla uznána dočasně práce neschopnou [§ 57 odst. 1 písm. e)] nebo pro které bylo vystaveno potvrzení podle § 67 písm. d), a nemá nárok na výplatu peněžité pomoci v mateřství [§ 36 odst. 1 písm. c)],*
 >
-> *e) pojištěnec, který pečuje o dítě a je otcem dítěte nebo manželem ženy, která dítě porodila, pokud s matkou dítěte uzavřel dohodu v listinné podobě podle odstavce 8, že bude pečovat o dítě; tuto dohodu lze uzavřít s účinkem na dobu nejdříve od počátku sedmého týdne po porodu dítěte a na dobu nejméně 7 kalendářních dnů po sobě jdoucích,*
+> *- e) pojištěnec, který pečuje o dítě a je otcem dítěte nebo manželem ženy, která dítě porodila, pokud s matkou dítěte uzavřel dohodu v listinné podobě podle odstavce 8, že bude pečovat o dítě; tuto dohodu lze uzavřít s účinkem na dobu nejdříve od počátku sedmého týdne po porodu dítěte a na dobu nejméně 7 kalendářních dnů po sobě jdoucích,*
 >
-> *f) pojištěnka uvedená v písmenu a), která splňuje podmínky nároku na peněžitou pomoc v mateřství podle odstavců 2 a 3, jestliže až do dne nástupu na peněžitou pomoc v mateřství pobírá nemocenské z dřívějšího pojištění.*
+> *- f) pojištěnka uvedená v písmenu a), která splňuje podmínky nároku na peněžitou pomoc v mateřství podle odstavců 2 a 3, jestliže až do dne nástupu na peněžitou pomoc v mateřství pobírá nemocenské z dřívějšího pojištění.*
 >
 > *(2) Podmínkou nároku na peněžitou pomoc v mateřství je účast pojištěnce na pojištění alespoň po dobu 270 kalendářních dní v posledních dvou letech přede dnem nástupu na peněžitou pomoc v mateřství (§ 34 odst. 1). Je-li uplatňován nárok na peněžitou pomoc v mateřství z více pojištění, musí být tato podmínka účasti na pojištění splněna v každém z těchto pojištění.*
 >
@@ -325,17 +325,17 @@ Snížení podle § 31 ukládá orgán nemocenského pojištění rozhodnutím. 
 >
 > *(4) Do doby účasti na pojištění pro nárok na peněžitou pomoc v mateřství podle odstavců 2 a 3 se započítává též*
 >
-> *a) doba studia na střední, vyšší odborné nebo vysoké škole nebo na konzervatoři považovaná za soustavnou přípravu na budoucí povolání pro účely důchodového pojištění, jestliže toto studium bylo úspěšně ukončeno nebo přerušeno z důvodu těhotenství,*
+> *- a) doba studia na střední, vyšší odborné nebo vysoké škole nebo na konzervatoři považovaná za soustavnou přípravu na budoucí povolání pro účely důchodového pojištění22), jestliže toto studium bylo úspěšně ukončeno nebo přerušeno z důvodu těhotenství,*
 >
-> *b) doba prezenčního studia v doktorském studijním programu, jestliže toto studium bylo úspěšně ukončeno nebo přerušeno z důvodu těhotenství,*
+> *- b) doba prezenčního studia v doktorském studijním programu, jestliže toto studium bylo úspěšně ukončeno nebo přerušeno z důvodu těhotenství,*
 >
-> *c) doba pobírání invalidního důchodu pro invaliditu třetího stupně, pokud byl tento důchod odňat a po odnětí tohoto důchodu vznikla, popřípadě dále trvala pojištěná činnost;*
+> *- c) doba pobírání invalidního důchodu pro invaliditu třetího stupně, pokud byl tento důchod odňat a po odnětí tohoto důchodu vznikla, popřípadě dále trvala pojištěná činnost;*
 >
 > *doby uvedené v písmenech a) až c) se započítávají v rozsahu, v jakém se nekryjí s pojištěnou činností, a je-li uplatňován nárok na peněžitou pomoc v mateřství z více pojištění, započítávají se tyto doby jen u jednoho pojištění.*
 >
-> *(5) Je-li uplatňován nárok na peněžitou pomoc v mateřství z pojištění, v němž není splněna podmínka účasti na pojištění podle odstavce 2, započtou se pro splnění této podmínky doby účasti na pojištění z předchozích pojištění v období dvou let před nástupem na peněžitou pomoc v mateřství; překrývající se doby účasti na pojištění lze započítat jen jednou. (...)*
+> *(5) Je-li uplatňován nárok na peněžitou pomoc v mateřství z pojištění, v němž není splněna podmínka účasti na pojištění podle odstavce 2, započtou se pro splnění této podmínky doby účasti na pojištění z předchozích pojištění v období dvou let před nástupem na peněžitou pomoc v mateřství; překrývající se doby účasti na pojištění lze započítat jen jednou. Je-li zároveň uplatněn nárok na peněžitou pomoc v mateřství z jednoho nebo více pojištění, ve kterých je splněna podmínka účasti na pojištění podle odstavce 2, a z pojištění, v němž není splněna tato podmínka, započtou se pro splnění této podmínky v pojištění, v němž tato podmínka splněna nebyla, jen ty dny v období dvou let před nástupem na peněžitou pomoc v mateřství, v nichž trvala účast na pojištění v 270 dnech souběžně v takovém počtu pojištění, z nichž je nárok na peněžitou pomoc v mateřství uplatňován. Není-li podmínka účasti na pojištění podle odstavce 2 splněna ve více pojištěních, započtou se pro splnění této podmínky doby účasti na pojištění v období dvou let před nástupem na peněžitou pomoc v mateřství jen u toho pojištění, v němž je nejvyšší denní vyměřovací základ; přitom platí postup podle věty první a druhé.*
 >
-> *(6) Pojištěnci, který je osobou pečující nebo osobou v evidenci, jemuž vznikl nárok na výplatu peněžité pomoci v mateřství jako osobě pečující nebo osobě v evidenci, se tato dávka nevyplácí po dobu, po kterou je poskytována odměna pěstouna podle zákona o sociálně-právní ochraně dětí druhému z manželů nebo z poručníků.*
+> *(6) Pojištěnci, který je osobou pečující nebo osobou v evidenci, jemuž vznikl nárok na výplatu peněžité pomoci v mateřství jako osobě pečující nebo osobě v evidenci, se tato dávka nevyplácí po dobu, po kterou je poskytována odměna pěstouna podle zákona o sociálně-právní ochraně dětí13) druhému z manželů nebo z poručníků.*
 >
 > *(7) Dítětem se pro účely odstavce 1 písm. a) a d) až f) rozumí dítě do dosažení 1 roku věku a pro účely odstavce 1 písm. b) a c) dítě, které ke dni převzetí do péče nedosáhlo 7 let věku, nejdéle však do dosažení věku 7 let a 31 týdnů.*
 >
