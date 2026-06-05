@@ -23,6 +23,10 @@ Začněte v [INDEX.md](INDEX.md) — obsah, mapa institutů (6 dávek NP), přeh
 
 Sestaveno AI asistentem (Claude) **výhradně z lokálních materiálů**. **Necituje konkrétní spzn**.
 
+## Důvodová zpráva
+
+Původní **důvodová zpráva** k zákonu (z oficiálního sněmovního tisku Poslanecké sněmovny ČR) je k dispozici v souboru [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) — podklad pro historický a teleologický výklad jednotlivých ustanovení.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
