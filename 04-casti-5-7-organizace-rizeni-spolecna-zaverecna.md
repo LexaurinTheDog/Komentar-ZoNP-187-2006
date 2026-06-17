@@ -110,6 +110,11 @@ Odst. 8 stanoví **celostátní místní příslušnost IPZS** — IPZS nemá ú
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [2 Ads 108/2025 - 35](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/780551) — 11. 3. 2026
+  > „NSS se s městským soudem ztotožnil. … Zohlednil především smysl a účel úpravy delegace místní příslušnosti podle zákona o nemocenském pojištění. … Lze tedy očekávat, že administrativa spojená s prováděním nemocenského pojištění v Praze bude značně převyšovat standardní zátěž v jiných regionech. Žalovaná svůj postup odůvodnila hrozbou, že by stěžovatelčiným zaměstnancům mohly být kvůli přetížení PSSZ vypláceny dávky nemocenského pojištění se zpožděním. Podle NSS nelze akceptovat stav, kdy by zaměstnanci zaměstnavatelů se sídlem v Praze byli v důsledku silného zatížení PSSZ zasaženi pozdní výplato…"
+
 #### Místní příslušnost pro pojištění zaměstnanců (odst. 1 písm. a)
 
 § 83 odst. 1 písm. a) rozlišuje dva režimy podle data přihlášení zaměstnavatele do registru:
@@ -325,6 +330,11 @@ Zaměstnavatel zaměstnávající zaměstnané osoby, dohodáře nebo zaměstnan
 - údaje pro zdravotní pojištění a Úřad práce.
 
 Cílem JMH je odstranit triplicitní podávání týchž údajů různým orgánům veřejné moci a urychlit poskytnutí dávek díky elektronické integraci.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [51 A 86/2020 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/698974) — 21. 2. 2022
+  > „Evidence zaměstnance v registru správy sociálního zabezpečení je závislá toliko na splnění ohlašovací povinnosti ze strany zaměstnavatele (srov. § 93 odst. 1 zákona č. 187/2006 Sb., o nemocenském pojištění, ve znění pozdějších předpisů a § 16c zákona č. 582/1991 Sb., o organizaci a provádění sociálního zabezpečení, ve znění pozdějších předpisů)"
 
 ##### § 94–96 — Oznámení nástupu, evidence, archivace
 
@@ -567,6 +577,11 @@ Tato sankce je **fakultativní** („**může** být kráceno") — orgán má d
 
 **Aktivní povinnost orgánu** (odst. 7): orgán je povinen **podat podnět** příslušnému správnímu orgánu nebo jinému orgánu veřejné moci k zahájení řízení, pokud by v něm mohlo dojít ke zjištění zaviněného protiprávního jednání. Toto pravidlo zajišťuje, že **veřejné prostředky vynaložené na dávky se kde to lze efektivně rekuperují** od pachatelů.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [52 Ad 3/2018 - 144](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/458353) — 18. 4. 2018
+  > „Rozhodnutí orgánů nemocenského pojištění o povinnosti zaplatit regresní náhradu podle § 126 zákona č. 187/2006 Sb., o nemocenském pojištění, není rozhodnutím správního orgánu o věci soukromoprávní ve smyslu § 46 odst. 2 [§ 68 písm. b)] s. ř. s. O žalobě proti takovému rozhodnutí je proto příslušný rozhodnout soud ve správním soudnictví"
+
 #### Díl 2 — Přestupky
 
 ##### §§ 127–142 — Katalog přestupků
@@ -678,6 +693,11 @@ Lhůta pro vydání rozhodnutí podle § 71 SŘ (30 dnů, 60 dnů ve složitých
 - doba určená pro odstranění nedostatků podání.
 
 **Specialita pro nemocenské po podpůrčí době** (odst. 2): je-li žádost podána dříve než **1 měsíc** před uplynutím podpůrčí doby, lhůta běží od počátku 1 měsíce přede dnem, kdy podpůrčí doba uplyne.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Ads 65/2014 - 54](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/635077) — 19. 6. 2015
+  > „Lhůta pro vydání správního rozhodnutí ve věcech nemocenského pojištění, která je zakotvena v § 71 odst. 3 zákona č. 500/2004 Sb., správní řád, ve spojení s § 147 zákona č. 187/2006 Sb., o nemocenském pojištění, … je lhůtou toliko pořádkovou. Samotné případné nedodržení této lhůty tak ani nemůže být podle ustálené judikatury správních soudů důvodem pro zrušení správního rozhodnutí soudem…"
 
 ### § 149 — Doručování
 
@@ -799,6 +819,11 @@ Odst. 2 — výjimka: orgán **může uložit povinnost nahradit náklady říze
 **Procesní cesta**: žaloba se podává **ke krajskému soudu** (§ 7 SŘS) ve lhůtě **2 měsíců** od doručení rozhodnutí o **opravném prostředku** (typicky odvolání ČSSZ) — tedy nejprve musí být vyčerpáno odvolání. Proti rozhodnutí krajského soudu je přípustná **kasační stížnost** k NSS (§§ 102 a násl. SŘS).
 
 **Pozn. k námitkám podle § 88 zákona č. 582/1991 Sb.**: na rozdíl od důchodového pojištění (kde se rozhodnutí ČSSZ napadá námitkami) **nemocenské pojištění námitky neužívá** — opravný prostředek proti ÚSSZ je standardní **odvolání** k ČSSZ. Námitkové řízení existuje jen u důchodů.
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 9/14](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-9-14_1) — nález, 16. 12. 2014
+  > „Z uvedeného je zřejmé, že rozhodnutí o výplatě nemocenského po uplynutí podpůrčí doby představuje rozhodnutí, jímž se osobě (žadateli) přizná nárok na hmotné zabezpečení (dávku) za situace, kdy je tato osoba (dočasně) k práci nezpůsobilá. Jedná se tak evidentně o rozhodnutí, které se práva na přiměřené hmotné zabezpečení při nezpůsobilosti k práci týká. Ústavní soud … [shledal], že napadené ustanovení § 158 písm. a) zákona o nemocenském pojištění, jež zakotvuje výluku uvedeného rozhodnutí ze soudního přezkumu, je natolik jednoznačné, že jej není možné vyložit ústavně konformně; je proto nutné … přistoupit k derogaci tohoto ustanovení"
 
 ### § 159 — Exekuce
 

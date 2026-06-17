@@ -188,6 +188,11 @@ Pro praktiku je klíčové, že **prvních 14 dnů DPN** je hrazeno zaměstnavat
 
 **Písm. c) a d) — vazba a výkon trestu/detence:** dávka NP, na kterou pojištěnec získal nárok **před** vzetím do vazby nebo nástupem trestu, se mu nevyplácí. Důvodem je, že stát již zajišťuje jeho potřeby v rámci výkonu vazby/trestu (poskytuje stravu, ubytování, zdravotní péči). Výjimka u **PPM** ženy ve výkonu trestu/detence, která pečuje o dítě, zachovává sociální funkci dávky vůči dítěti (péče matky o novorozence v nápravném zařízení podle zákona č. 169/1999 Sb., o výkonu trestu).
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [4 As 51/2019 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/658071) — 24. 2. 2021
+  > „Nejvyšší správní soud shora uvedené doplňuje též odkazem na § 16 písm. b) zákona č. 187/2006 Sb., o nemocenském pojištění, podle něhož pojištěnec nemá nárok na výplatu nemocenského, peněžité pomoci v mateřství a ošetřovného za dobu, po kterou (…) mu náleží podle zvláštních právních předpisů ze zaměstnání, z něhož tyto dávky náleží, nadále započitatelný příjem (…). I z něj je totiž zřejmé, že kumulace nároku na nemocenské a služebního příjmu není možná"
+
 ---
 
 ### § 17 — Výplata po kalendářních dnech a poměrná část
@@ -541,6 +546,11 @@ OSVČ má NP **dobrovolné** (§ 11 ZoNP — viz předchozí kapitola). Aby se z
 
 **Sankce za porušení režimu DPN — § 56 ZoNP** (mimo rozsah této kapitoly, viz navazující komentář k Části páté): porušení režimu DPN (typicky nedodržení vycházek, výkon výdělečné činnosti v DPN) může vést ke **snížení nebo odnětí nemocenského**. Toto ustanovení doplňuje § 16 písm. a) (souběh s prací v pojištěné činnosti) o sankci za zneužití mimo pojištěnou činnost.
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 54/10](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-54-10_1) — nález, 24. 4. 2012
+  > „…jak vyplývá z předchozí i současné úpravy nemocenského pojištění, je podle obecně respektovaných zásad možné, aby pojištěnec oprávněně a důvodně nebyl v době pracovní neschopnosti zabezpečen dávkou. Dochází k tomu při vyloučení nároku na nemocenské [podle ustanovení § 25 písm. a) zákona č. 187/2006 Sb., o nemocenském pojištění, nemá nárok na nemocenské pojištěnec, který si úmyslně přivodil dočasnou pracovní neschopnost]…"
+
 ### § 26 — Podpůrčí doba u nemocenského
 
 > **§ 26**
@@ -682,6 +692,13 @@ Vztahuje se na:
 - pro odst. 1 písm. b), c) → dítě, **které ke dni převzetí nedosáhlo 7 let**, nejdéle však do 7 let a 31 týdnů.
 
 **Dohoda o převzetí péče otcem** (odst. 8): musí obsahovat den převzetí péče a den porodu, **podpis matky musí být úředně ověřen** (notářem, ÚSSZ nebo obecním úřadem) — formální požadavek bránící zneužití. Den převzetí nesmí spadat do období, za které byla PPM vyplacena matce, ani do období přede dnem ověření podpisu.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [72 Ad 17/2011 - 31](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/560817) — 18. 4. 2012
+  > „Shora podaný výklad o pojetí pojmu „pojištění“ umocňuje věta druhá § 32 odst. 2 zákona č. 187/2006 Sb., podle které je-li uplatňován nárok na peněžitou pomoc v mateřství z více pojištění, musí být tato podmínka účasti na pojištění splněna v každém z těchto pojištění. (…) [Pojištění z titulu činnosti OSVČ je tedy jiným pojištěním než pojištění ze zaměstnání.]"
+- *NSS* [13 Ad 6/2021 - 19](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/719243) — 17. 4. 2023
+  > „Soud má za to, že zákonodárce musel stanovit určitou časovou podmínku tak, aby nedocházelo ke zneužívání systému nemocenského pojištění. Smyslem stanovení této doby je jednak stanovit povinnou dobu pojištění s povinnými příspěvky předtím, než má vzniknout nárok na poměrně nákladnou a několik měsíců vyplácenou dávku nemocenského pojištění (snaha přimět pojištěnce, aby si svůj nárok „předplatil“), a zároveň chránit systém nemocenského pojištění před zneužitím (aby se pojištěnka nepojistila teprve tehdy, když zjistí, že je těhotná)"
 
 ### § 33 — Podpůrčí doba u PPM
 
