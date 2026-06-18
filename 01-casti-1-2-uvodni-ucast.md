@@ -63,6 +63,41 @@ Tyto předpisy řeší kolizi pojistných systémů u migrujících pracovníků
 >
 > Klíčový rozdíl: nemocenské pojištění je u OSVČ jediné **dobrovolné**, zatímco důchodové a zdravotní jsou pro OSVČ povinné. To zásadně ovlivňuje strategii pojištění OSVČ — řada drobných podnikatelů nemocenské pojištění odmítá, což však znamená, že v případě nemoci nemají nárok na nemocenské.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** OSVČ (živnostník — IT konzultant) onemocní a žádá o nemocenské. Současně je krátkodobě vyslán svým českým objednatelem na zakázku do Spojených arabských emirátů, kde stráví 5 měsíců. Spor vznikne o to, podle jakého předpisu se posoudí jeho pojistná situace a zda mu vůbec z titulu nemocenského pojištění něco náleží. Důkazy: výpis z živnostenského rejstříku, přihláška/odhláška k nemocenskému pojištění OSVČ, doklady o výkonu činnosti v cizině, případně formulář A1 (u států EU).
+
+**2. Právní otázka.** Vymezuje § 1 ZoNP věcnou působnost tak, že na daný vztah dopadá český zákon, nebo má přednost přímo použitelný předpis EU (odst. 3), případně jiný (pojistný) zákon (odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 1 — rozsah působnosti (šest sociálních událostí, vztah k pojistnému, subsidiarita vůči právu EU).
+- *Související ustanovení téhož zákona:* § 4 (druhy dávek), § 11 a § 13 (účast a zánik pojištění OSVČ), § 3 písm. q), r) (vymezení smluvních a členských států EU).
+- *Související předpisy:* zákon č. 589/1992 Sb. (pojistné — odst. 2); nařízení (ES) č. 883/2004 a č. 987/2009 (odst. 3); zákon č. 155/1995 Sb. (důchodové pojištění).
+- *Judikatura:* obecně přijímaný závěr NSS, že nemocenské pojištění je veřejnoprávní systém, jehož působnost nelze rozšiřovat výkladem nad rámec zákona; pravidlo *lex loci laboris* z koordinačních nařízení EU má aplikační přednost.
+
+**4. Subsumpce.** Onemocnění (DPN) spadá pod sociální událost dle odst. 1. Vztah k zahraničí mimo EU/smluvní stát → nepoužije se nařízení 883/2004 (odst. 3 se neuplatní), nastupuje český ZoNP přímo. Výši pojistného přitom řeší zvláštní zákon (odst. 2), nikoli ZoNP.
+
+**5. Řešení.** Pro výkon SVČ v cizině na základě českého oprávnění (§ 11 písm. a) zůstává OSVČ účastna českého nemocenského pojištění, je-li přihlášena a platí pojistné. ZoNP se aplikuje přímo, protože EU právo na vztah k třetímu nesmluvnímu státu nedopadá. Nemocenské náleží, pokud byla splněna čekací doba (§ 24). Riziko: kdyby šlo o stát EU, posoudila by se příslušnost podle nařízení 883/2004 a český zákon by ustoupil.
+
+**6. Varianty.** (a) Výkon činnosti v Německu (EU) → použije se nařízení 883/2004, příslušnost dle pravidel koordinace, ZoNP subsidiárně (odst. 3). (b) Zaměstnanec místo OSVČ → posuzuje se účast podle § 6, nikoli § 11.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pojištěnec platil pojistné, tedy mu dávka náleží bez ohledu na místo výkonu." Neutralizace: § 1 odst. 3 zakládá subsidiaritu vůči EU právu; placení pojistného samo o sobě nezakládá nárok, je-li příslušnost dána jinému státu.
+- *Protiargument:* ZoNP upravuje i výši pojistného. Neutralizace: odst. 2 výslovně odkazuje na zvláštní předpis (č. 589/1992 Sb.); spory o výši pojistného nepatří do režimu ZoNP.
+- *Slabé místo:* hranice mezi „přímo použitelným předpisem EU" a vnitrostátní úpravou bývá v praxi nejasná u vyslání a souběhu činností ve více státech; chybí jednotná kazuistika.
+
+#### H. Praktický závěr
+
+Ustanovení § 1 je vstupní normou určující, zda se vůbec český zákon použije. Vždy nejprve ověř mezinárodní prvek a aplikační přednost práva EU (formulář A1), teprve poté řeš nárok podle ZoNP. Otázky pojistného směřuj na zákon č. 589/1992 Sb.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá situace pod některou ze šesti sociálních událostí dle odst. 1?
+- [ ] Je dán mezinárodní prvek? Pokud ano, použije se nařízení 883/2004 (přednost před ZoNP)?
+- [ ] Týká se spor výše pojistného (pak č. 589/1992 Sb.), nebo nároku na dávku (pak ZoNP)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o oprávnění k činnosti, formulář A1, přihláška/odhláška k pojištění, evidence místa výkonu práce.
+
 ---
 
 ### § 2 — Účast na pojištění
@@ -98,6 +133,41 @@ Týká se:
 2. **Zahraničních zaměstnanců** ve smyslu § 3 písm. p) — fyzických osob zaměstnaných zahraničním zaměstnavatelem (sídlo mimo ČR a mimo státy s nimiž má ČR smlouvu o sociálním zabezpečení nebo mimo EU), které jsou činné v ČR.
 
 Dobrovolnost znamená možnost volby vstupu i výstupu (odhláška) z pojištění. Nese však zvýšenou odpovědnost: nezaplacení pojistného má za následek **zánik pojištění** (§ 13 odst. 2 písm. e) u OSVČ a § 10 odst. 8 u zahraničního zaměstnance) — viz dále.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Jediný společník a zároveň jednatel s. r. o. tvrdí, že si ve smlouvě o výkonu funkce sjednal, že „není účasten nemocenského pojištění", a odmítá odvádět pojistné. ČSSZ ho doměří. Účastníci: společník-jednatel, společnost (zaměstnavatel), OSSZ. Důkazy: smlouva o výkonu funkce, doklady o vyplácených odměnách, přihláška k pojištění.
+
+**2. Právní otázka.** Lze soukromoprávním ujednáním vyloučit povinnou účast na nemocenském pojištění podle § 2 písm. a)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 2 — dichotomie povinné (písm. a) a dobrovolné (písm. b) účasti.
+- *Související ustanovení téhož zákona:* § 5 písm. a) bod 16 (jednatel jako zaměstnanec), § 6 (podmínky účasti), § 11 (dobrovolná účast OSVČ), § 3 písm. j) (pojištěná činnost).
+- *Související předpisy:* zákon č. 90/2012 Sb., o obchodních korporacích (smlouva o výkonu funkce); čl. 30 Listiny.
+- *Judikatura:* NSS 1 Ads 419/2017-28 (24. 5. 2018) — strany si mohou zvolit soukromoprávní režim svého vztahu, nemohou však regulovat veřejnoprávní povinnosti ani vyloučit povinnou účast na pojištění; NSS 72 Ad 17/2011-31 (18. 4. 2012) — pojištění není jednolitý pojem, rozlišuje se povinné a dobrovolné.
+
+**4. Subsumpce.** Jednatel je osobou dle § 5 písm. a) bod 16 → spadá pod povinnou účast dle § 2 písm. a). Povinná účast vzniká *ex lege*; soukromoprávní ujednání o vyloučení účasti je z hlediska veřejného práva neúčinné.
+
+**5. Řešení.** Doměření pojistného je správné. Jednatel je povinně pojištěn, splní-li podmínky § 6 (rozhodný příjem). Ujednání o „vyloučení pojištění" nemá veřejnoprávní účinky. Procesní krok: bránit se lze jen popřením naplnění zákonných znaků účasti (např. že odměna nedosáhla rozhodného příjmu), nikoli odkazem na vůli stran.
+
+**6. Varianty.** (a) Šlo by o OSVČ → účast jen dobrovolná dle písm. b), bez přihlášky nevzniká. (b) Odměna jednatele pod rozhodným příjmem → účast by nevznikla pro nesplnění § 6, nikoli pro vůli stran.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Smluvní volnost stran umožňuje zvolit, zda budou pojištěni." Neutralizace (NSS 1 Ads 419/2017): volnost se týká jen soukromoprávního vztahu, nikoli veřejnoprávních povinností.
+- *Protiargument:* dobrovolnost účasti OSVČ ukazuje, že pojištění je věcí volby. Neutralizace: dobrovolnost je výslovně vyhrazena jen okruhu dle písm. b); u zaměstnanců (písm. a) je účast vždy povinná.
+- *Slabé místo:* hranice mezi „zaměstnancem" a „OSVČ" může být sporná u kvazi-závislé práce (švarcsystém); kvalifikace vztahu předchází úvaze o povinnosti vs. dobrovolnosti.
+
+#### H. Praktický závěr
+
+§ 2 je rozcestníkem: nejprve urči, zda jde o osobu z písm. a) (povinně) nebo písm. b) (dobrovolně). Povinnou účast nelze smluvně vyloučit; dobrovolná naopak bez přihlášky vůbec nevznikne.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je osoba zaměstnancem dle § 5 písm. a), nebo OSVČ / zahraničním zaměstnancem?
+- [ ] U povinné účasti: nesnaží se strany vyloučit pojištění soukromoprávním ujednáním (neúčinné)?
+- [ ] U dobrovolné účasti: byla podána přihláška?
+
+**Typicky rozhodné důkazy / podklady:** smlouva (o výkonu funkce / pracovní), doklady o odměnách, přihláška k pojištění, evidence OSSZ.
 
 ---
 
@@ -237,6 +307,41 @@ Smluvní zaměstnanec (písm. n) je „přidělený" zahraničním zaměstnavate
 
 Vymezení je široké: trvá od **počátku výkonu činnosti** pro zaměstnavatele do **konce období**, v němž činnost měla nebo mohla být vykonávána. To přesahuje pojem „trvání pracovního poměru" v zákoníku práce — i pro účely ZoNP počítáme se „skrytými" obdobími, kdy je zaměstnanec sice formálně v poměru, ale nepracuje (omluvená absence, neplacené volno apod.).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyni skončí pracovní poměr 30. dubna. Dne 6. května onemocní a uplatní nárok na nemocenské. ČSSZ řeší, zda je vůbec „pojištěnkou", když pojistná účast již zanikla. Důkazy: doklad o skončení PP, rozhodnutí o DPN, žádost o dávku.
+
+**2. Právní otázka.** Je osoba po zániku pojištění stále „pojištěncem" ve smyslu § 3 písm. a), takže může uplatnit nárok na dávku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 3 písm. a) — pojištěncem je i osoba po zániku pojištění, plyne-li jí ochranná lhůta, uplatňuje-li nárok nebo dávku pobírá.
+- *Související ustanovení téhož zákona:* § 15 (ochranná lhůta), § 14 (obecné podmínky nároku), § 3 písm. j), l) (pojištěná činnost, sociální událost), § 64 (oznamovací povinnost pojištěnce).
+- *Související předpisy:* zákon č. 589/1992 Sb. (započitatelný příjem dle písm. e).
+- *Judikatura:* obecně uznávaný výklad, že rozšířený pojem pojištěnce zachovává procesní práva a povinnosti i po formálním zániku účasti.
+
+**4. Subsumpce.** Onemocnění 6. května spadá do 7denní ochranné lhůty (1.–7. května) dle § 15. Tím osoba splňuje znak „plyne jí ochranná lhůta" v § 3 písm. a) → je pojištěnkou a může uplatnit nárok.
+
+**5. Řešení.** Žadatelka je pojištěnkou; nárok na nemocenské vznikne, protože DPN nastala v ochranné lhůtě. Procesně: dávku vyplatí ČSSZ. Riziko: kdyby onemocněla 9. května (mimo lhůtu), pojištěnkou by již nebyla a nárok by nevznikl.
+
+**6. Varianty.** (a) Skončení ZMR místo plného PP → ochranná lhůta neplyne (§ 15 odst. 4 písm. c), pojištěncem by nebyla. (b) Osoba již dávku pobírá z dřívější události → zůstává pojištěncem dle třetí alternativy písm. a) i bez ochranné lhůty.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Po skončení pracovního poměru osoba není pojištěna, tedy nemá žádná práva." Neutralizace: § 3 písm. a) výslovně rozšiřuje pojem pojištěnce na fázi ochranné lhůty a uplatnění/pobírání dávky.
+- *Protiargument:* definice jsou jen technické a nevytvářejí nároky. Neutralizace: definiční pojmy (pojištěnec, sociální událost, pojištěná činnost) jsou normativně určující pro vznik nároku v dalších ustanoveních.
+- *Slabé místo:* mezi pojmy „dosažený příjem" (písm. f, datum zúčtování) a „započitatelný příjem" dochází v praxi k záměnám při výpočtu DVZ.
+
+#### H. Praktický závěr
+
+§ 3 je glosář, jehož pojmy se v zákoně užívají bez dalšího vysvětlení — zejména „pojištěnec" (širší než pojištěný), „sociální událost" a „pojištěná činnost" jsou klíčové pro vznik nároku. Při sporu vždy ověř přesnou legální definici, nikoli běžný význam slova.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Splňuje osoba znak „pojištěnce" dle písm. a) (aktuální účast / ochranná lhůta / uplatnění / pobírání dávky)?
+- [ ] Je správně určen „dosažený příjem" podle data zúčtování (písm. f)?
+- [ ] U mezinárodního prvku: jde o smluvní/členský stát dle písm. q), r)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o skončení pojistné činnosti, mzdové listy (datum zúčtování), žádost o dávku, evidence ochranné lhůty.
+
 ---
 
 ### § 4 — Druhy dávek
@@ -289,6 +394,41 @@ Vysvětlivky: DVZ = denní vyměřovací základ (§ 18); procenta DVZ pro nemoc
 6. **Vyrovnávací příspěvek v těhotenství a mateřství** je dávka kompenzační: pokud je těhotná zaměstnankyně (nebo do 9 měsíců po porodu, případně do 9 měsíců věku dítěte při kojení) převedena na jinou (méně placenou) práci ze zdravotních důvodů, dorovnává jí ZoNP rozdíl mezi předchozím a aktuálním příjmem.
 
 > **Co se z nemocenského pojištění neposkytuje:** mimo katalog § 4 stojí například **podpora v nezaměstnanosti** (zákon č. 435/2004 Sb., o zaměstnanosti), **invalidní důchod** (zákon č. 155/1995 Sb.), **rodičovský příspěvek** (zákon č. 117/1995 Sb., o státní sociální podpoře), **starobní a pozůstalostní důchody**. Tyto dávky se vyplácejí z jiných systémů.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Otec pečuje o novorozené dítě, protože matka je po porodu hospitalizována. Žádá zaměstnavatele a ČSSZ o „nějakou dávku, která se nejmenuje mateřská". Účastníci: otec (pojištěnec), matka, ČSSZ. Důkazy: rodný list dítěte, doklad o hospitalizaci matky, potvrzení o pojištění otce.
+
+**2. Právní otázka.** Které z taxativně vyjmenovaných dávek v § 4 na danou situaci dopadají a lze poskytnout plnění mimo tento výčet?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 4 — uzavřený výčet šesti dávek (nemocenské, PPM, otcovská, ošetřovné, dlouhodobé ošetřovné, vyrovnávací příspěvek).
+- *Související ustanovení téhož zákona:* § 32 odst. 1 (PPM i pro otce při onemocnění matky), § 38a (otcovská), § 39 (ošetřovné).
+- *Související předpisy:* zákon č. 117/1995 Sb. (rodičovský příspěvek — mimo ZoNP), zákon č. 435/2004 Sb. (podpora v nezaměstnanosti — mimo ZoNP).
+- *Judikatura:* ustálený výklad, že výčet dávek je taxativní a jiné peněžité plnění z nemocenského pojištění poskytnout nelze.
+
+**4. Subsumpce.** Péče otce o novorozence v prvních týdnech → otcovská dle písm. c) / § 38a. Při hospitalizaci matky a převzetí péče může nastoupit i PPM otce dle § 32. Rodičovský příspěvek pod § 4 nespadá (jiný systém).
+
+**5. Řešení.** Otci náleží otcovská (2 týdny v prvních 6 týdnech po narození), případně PPM, převezme-li péči pro onemocnění matky. Mimo výčet § 4 (např. rodičovský příspěvek) musí žádat z jiných systémů. Riziko: nesprávné označení dávky v žádosti — ČSSZ posuzuje obsah, ne název.
+
+**6. Varianty.** (a) Dítě i matka v pořádku, otec chce jen krátce zůstat doma → jen otcovská (písm. c). (b) Vážně nemocný rodič propuštěný z nemocnice, o nějž pečuje pojištěnec → dlouhodobé ošetřovné (písm. e), nikoli ošetřovné.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Existuje obecná dávka pro rodiče v nouzi z nemocenského pojištění." Neutralizace: výčet § 4 je taxativní; rodičovský příspěvek a další plnění jsou mimo ZoNP.
+- *Protiargument:* nemocenské pokryje každou ztrátu příjmu. Neutralizace: nemocenské váže jen na DPN/karanténu (§ 23 a násl.), nikoli na péči o zdravé dítě.
+- *Slabé místo:* hranice mezi ošetřovným (§ 39) a dlouhodobým ošetřovným (§ 41a) bývá v žádostech zaměňována, což vede k zamítnutí.
+
+#### H. Praktický závěr
+
+§ 4 vymezuje šest a jen šest dávek. Před uplatněním nároku správně zařaď životní situaci pod konkrétní dávku; plnění mimo výčet hledej v jiných zákonech (státní sociální podpora, zaměstnanost, důchodové pojištění).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Spadá situace pod některou ze šesti dávek § 4, nebo jde o plnění z jiného systému?
+- [ ] Je rozlišeno ošetřovné vs. dlouhodobé ošetřovné podle povahy a délky péče?
+- [ ] U otce: připadá v úvahu otcovská (§ 38a) i PPM (§ 32)?
+
+**Typicky rozhodné důkazy / podklady:** rodný list, lékařské potvrzení o potřebě péče / hospitalizaci, doklad o pojištění žadatele, žádost na předepsaném tiskopisu.
 
 ---
 
@@ -379,6 +519,41 @@ Závěrečný dovětek písm. a) propojuje účast s **daňovým režimem** — 
 
 Stručná zmínka — podrobné podmínky účasti viz § 11 a 12. Klíčové je, že OSVČ se k pojištění **přihlašují** (oproti zaměstnancům, jimž vzniká ex lege).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan N. je jediným společníkem a jednatelem rodinné s. r. o. Žádné pracovní smlouvy nemá, ale fakticky firmu řídí a pobírá měsíční odměnu jednatele 30 000 Kč. ČSSZ ho vede jako pojištěného zaměstnance a doměřuje pojistné; on namítá, že „není zaměstnancem, protože nemá pracovní smlouvu". Účastníci: jednatel, s. r. o., OSSZ. Důkazy: smlouva o výkonu funkce, doklady o odměnách, výpis z OR.
+
+**2. Právní otázka.** Spadá společník-jednatel vykonávající práci pro společnost pod okruh „zaměstnanců" dle § 5 písm. a), i když nemá pracovní poměr?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 5 písm. a) bod 16 — společníci a jednatelé s. r. o. vykonávající mimo pracovní poměr práci pro společnost.
+- *Související ustanovení téhož zákona:* § 2 (povinná účast), § 6 (rozhodný příjem), § 8 (souběh společník + jednatel — pojištěn jen jednou).
+- *Související předpisy:* zákon č. 90/2012 Sb. (smlouva o výkonu funkce), zákon č. 586/1992 Sb. (daň z příjmů — daňové kritérium v závěru písm. a).
+- *Judikatura:* NSS 1 Ads 419/2017-28 (24. 5. 2018) — na jednatele beze zbytku dopadá § 5 písm. a) bod 16; účast je dána i bez pracovní smlouvy a nelze ji vyloučit dohodou.
+
+**4. Subsumpce.** Jednatel fakticky vykonává práci pro společnost, plyne mu příjem ze závislé činnosti (předmět daně) → naplňuje bod 16 i závěrečné daňové kritérium. Účast vzniká, neboť odměna 30 000 Kč přesahuje rozhodný příjem (§ 6).
+
+**5. Řešení.** Doměření je správné — jednatel je pojištěným zaměstnancem dle § 5 písm. a) bod 16. Není rozhodné, že chybí pracovní smlouva; rozhoduje faktický výkon práce a příjem podléhající dani. Procesně: obrana je omezena na popření znaků (např. že fakticky práci nevykonával / odměna nedosáhla rozhodného příjmu).
+
+**6. Varianty.** (a) Jednatel bez jakékoli odměny a bez výkonu práce → účast nevzniká (chybí příjem ze závislé činnosti). (b) Je-li současně společníkem i jednatelem → dle § 8 pojištěn jen jednou.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Bez pracovní smlouvy nemůže být ‚zaměstnancem'." Neutralizace: § 5 vymezuje zaměstnance pro účely ZoNP šíře než zákoník práce — výslovně zahrnuje jednatele (bod 16) i faktický pracovní poměr (bod 15).
+- *Protiargument:* neuvolnění zastupitelé a členové volebních komisí jsou též „zaměstnanci". Neutralizace: bod 22 in fine je výslovně vyjímá.
+- *Slabé místo:* u zbytkové klauzule (bod 22) bývá sporné, zda konkrétní příjem je „ze závislé činnosti předmětem daně" — vyžaduje daňovou kvalifikaci.
+
+#### H. Praktický závěr
+
+§ 5 obsahuje 22 podkategorií zaměstnanců a kategorii OSVČ; pojem zaměstnance je mnohem širší než v zákoníku práce. U korporátních funkcí (jednatel, prokurista, likvidátor) účast vzniká i bez pracovní smlouvy, je-li vykonávána práce a plyne zdanitelný příjem ze závislé činnosti.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Pod kterou z 22 podkategorií osoba spadá (vč. zbytkové klauzule bod 22)?
+- [ ] Jde o výjimku (neuvolněný zastupitel, člen okrskové volební komise)?
+- [ ] Plyne osobě příjem ze závislé činnosti, který je předmětem daně z příjmů?
+
+**Typicky rozhodné důkazy / podklady:** smlouva (pracovní / o výkonu funkce), výpis z OR, doklady o vyplácených odměnách, daňové posouzení příjmu.
+
 ---
 
 ### HLAVA II — Účast zaměstnanců na pojištění
@@ -444,6 +619,42 @@ Tím se zahraniční zaměstnanec postaví na obdobnou pozici jako OSVČ — dob
 
 Pro DPP platí zvláštní pravidla podle **§ 7a** — viz výklad níže. Ustanovení § 6 se na DPP nepoužije.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Česká firma se sídlem v Praze uzavře pracovní poměr se zaměstnancem, kterého trvale vyšle pracovat do Kazachstánu (stát bez smlouvy o sociálním zabezpečení a mimo EU). Zaměstnanec má trvalý pobyt v ČR a v Kazachstánu není povinně důchodově pojištěn. Sporné je, zda je účasten českého nemocenského pojištění. Důkazy: pracovní smlouva s místem výkonu práce, doklad o trvalém pobytu, potvrzení o (ne)pojištění v Kazachstánu.
+
+**2. Právní otázka.** Vzniká účast na pojištění při trvalém výkonu práce v cizině pro českého zaměstnavatele dle § 6 odst. 1 písm. a) bodu 2?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 6 odst. 1 (územní + příjmová podmínka), odst. 1 písm. a) bod 2 (práce v cizině pro českého zaměstnavatele), odst. 4 (vyloučení DPP).
+- *Související ustanovení téhož zákona:* § 7 (zaměstnání malého rozsahu při nedosažení rozhodného příjmu), § 7a (DPP), § 10 odst. 7 (vznik/zánik při práci v cizině), § 3 písm. e) (započitatelný příjem).
+- *Související předpisy:* nařízení (ES) č. 883/2004 (pro EU — formulář A1); zákon č. 155/1995 Sb. (důchodové pojištění).
+- *Judikatura:* obecný výklad, že lex loci laboris je pravidlem, výjimka odst. 1 písm. a) bod 2 se uplatní jen u nesmluvních třetích států.
+
+**4. Subsumpce.** Kumulativně: místo výkonu trvale v cizině ✓, v hostitelském státě bez povinného důchodového pojištění ✓, trvalý pobyt v ČR ✓, zaměstnavatel se sídlem v ČR ✓. Druhá podmínka (rozhodný příjem ≥ 2 000 Kč) splněna při běžné mzdě.
+
+**5. Řešení.** Zaměstnanec je účasten českého nemocenského pojištění dle § 6 odst. 1 písm. a) bodu 2. Vznik a zánik se řídí § 10 odst. 7 (zánik dnem po doložení povinné účasti v cizině). Riziko: prokáže-li se povinná účast v cizím systému, česká účast zaniká.
+
+**6. Varianty.** (a) Stát EU → použije se nařízení 883/2004 a formulář A1, nikoli bod 2. (b) Sjednaný příjem pod 2 000 Kč → režim zaměstnání malého rozsahu (§ 7), účast jen v měsících dosažení rozhodného příjmu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Práce v cizině vždy znamená pojištění v cizině." Neutralizace: u nesmluvních států bez povinného pojištění zákon výslovně zachovává českou účast (bod 2).
+- *Protiargument:* postačí splnit jen územní podmínku. Neutralizace: podmínky odst. 1 jsou kumulativní — nutný i rozhodný příjem (písm. b).
+- *Slabé místo:* doložení „nepovinné účasti" v cizím systému je důkazně obtížné; břemeno nese zaměstnavatel (§ 10 odst. 7).
+
+#### H. Praktický závěr
+
+Účast zaměstnance vzniká při současném splnění územní a příjmové podmínky. U mezinárodního prvku nejprve vyřeš, zda jde o EU/smluvní stát (přednost koordinace), nebo nesmluvní třetí stát (uplatní se výjimka bod 2). DPP řeší § 7a, nikoli § 6.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je splněna územní podmínka (ČR, nebo výjimka bod 2)?
+- [ ] Dosahuje sjednaný měsíční příjem rozhodného příjmu (aktuálně 2 000 Kč)?
+- [ ] Jde o EU/smluvní stát (koordinace, A1), nebo nesmluvní třetí stát?
+- [ ] Nejde o DPP (pak § 7a)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva (místo výkonu práce, sjednaná mzda), doklad o trvalém pobytu, potvrzení o pojištění v cizím státě, formulář A1.
+
 ---
 
 ### § 7 — Pojištění při zaměstnání malého rozsahu
@@ -487,6 +698,42 @@ Pokud zaměstnavatel zúčtuje příjem (např. odměnu, prémii) až po skonče
 
 Pokud zaměstnanec u téhož zaměstnavatele (vč. právního nástupce) vykonává souběžně více ZMR a **úhrn** příjmů z nich dosáhne v měsíci rozhodné částky, vznikne účast ze všech těchto ZMR. Smysl: zabránit „štěpení" jediného zaměstnání na více menších, aby každé zůstalo pod rozhodným příjmem.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně pracuje na dohodu o pracovní činnosti bez pevně sjednané odměny (odměna se odvíjí od odpracovaných hodin). V lednu vydělá 1 500 Kč, v únoru 3 200 Kč, v březnu 0 Kč. Plánuje žádat o peněžitou pomoc v mateřství a potřebuje vědět, kolik dnů účasti získala. Důkazy: DPČ, mzdové listy po měsících, evidence účasti u OSSZ.
+
+**2. Právní otázka.** Ve kterých měsících je zaměstnankyně v zaměstnání malého rozsahu pojištěna a jak se to projeví na době pojištění rozhodné pro nárok na dávku?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7 odst. 1 (definice ZMR), odst. 2 (měsíční režim účasti), odst. 3 (doúčtování), odst. 4 (souběh ZMR u téhož zaměstnavatele).
+- *Související ustanovení téhož zákona:* § 6 odst. 1 písm. b) (rozhodný příjem), § 15 odst. 4 písm. c) (z ZMR neplyne ochranná lhůta), § 15a (dávky při ZMR/DPP), § 32 odst. 2 (270 dnů pro PPM).
+- *Související předpisy:* zákoník práce (DPČ); zákon č. 589/1992 Sb.
+- *Judikatura:* obecný výklad měsíčního „konta účasti" u ZMR.
+
+**4. Subsumpce.** Leden 1 500 Kč < rozhodný příjem → bez pojištění; únor 3 200 Kč ≥ rozhodný příjem → pojištěna v únoru; březen 0 Kč → bez pojištění. Účast tak „bliká" a do doby pojištění se počítá jen únor.
+
+**5. Řešení.** Zaměstnankyně získala dobu pojištění pouze za únor. Pro PPM (270 dnů účasti v posledních 2 letech) je třeba tyto „blikající" měsíce sečíst — samotná DPČ jí čekací dobu zpravidla nenaplní. Procesní krok: ověřit souběh více ZMR u téhož zaměstnavatele (odst. 4) a doúčtování (odst. 3).
+
+**6. Varianty.** (a) Dvě DPČ u téhož zaměstnavatele, úhrn v lednu 2 200 Kč → účast i v lednu (odst. 4). (b) Odměna doúčtována po skončení ZMR → přičte se k poslednímu měsíci trvání (odst. 3).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Trvá-li DPČ celý rok, je pojištěna celý rok." Neutralizace: u ZMR se účast posuzuje měsíc po měsíci podle skutečně dosaženého příjmu (odst. 2), nikoli podle trvání dohody.
+- *Protiargument:* rozdělením práce na dvě dohody se účasti vyhne. Neutralizace: odst. 4 sčítá příjmy z více ZMR u téhož zaměstnavatele (vč. právního nástupce).
+- *Slabé místo:* nestálost účasti vede k tomu, že pojištěnci nečekaně nesplní čekací doby pro PPM/nemocenské; chybí jim povědomí o „blikání".
+
+#### H. Praktický závěr
+
+ZMR je zaměstnání, kde příjem nedosahuje rozhodné částky nebo nebyl sjednán. Účast existuje jen v měsících, kdy skutečně dosažený příjem dosáhne rozhodného příjmu. Vždy spočítej dobu pojištění po jednotlivých měsících a zohledni souběh a doúčtování.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o ZMR (příjem nedosahuje rozhodné částky / nebyl sjednán)?
+- [ ] Ve kterých měsících skutečně dosažený příjem dosáhl rozhodného příjmu?
+- [ ] Existuje souběh více ZMR u téhož zaměstnavatele (sčítání dle odst. 4)?
+- [ ] Bylo doúčtování po skončení ZMR (odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** DPČ / smlouva, mzdové listy po měsících, evidence pojištění OSSZ, doklady o doúčtování.
+
 ---
 
 ### § 7a — Pojištění zaměstnanců činných na základě dohody o provedení práce
@@ -513,6 +760,41 @@ Stejně jako u ZMR se účast posuzuje **měsíc po měsíci** a kumuluje se př
 
 DPP byla historicky atraktivním nástrojem pro „nezdaněnou drobnou výpomoc". Od r. 2024 však platí povinné oznamování DPP u FÚ; účast na pojištění je propojena s daňovým režimem a omezuje agresivní optimalizaci.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Student pracuje pro jednu agenturu na dvě dohody o provedení práce. V květnu mu z první DPP zúčtují 1 800 Kč a z druhé 1 600 Kč (úhrn 3 400 Kč). Hranice účasti u DPP pro rok je např. 11 500 Kč. Sporné je, zda mu v květnu vznikla účast a zda se DPP sčítají. Důkazy: obě DPP, mzdové listy, sdělení MPSV o aktuální hranici.
+
+**2. Právní otázka.** Vzniká účast na pojištění z DPP, dosáhne-li úhrn příjmů z více DPP u téhož zaměstnavatele zákonné hranice (25 % průměrné mzdy)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 7a odst. 1 (hranice 25 % průměrné mzdy), odst. 2 (měsíční režim, doúčtování obdobně), odst. 3 (souběh DPP u téhož zaměstnavatele).
+- *Související ustanovení téhož zákona:* § 6 odst. 4 (vyloučení DPP z § 6), § 7 odst. 3 (doúčtování — odkaz), § 15 odst. 4 písm. f) (z DPP neplyne ochranná lhůta), § 15a (dávky při DPP).
+- *Související předpisy:* § 23b odst. 4 zákona č. 589/1992 Sb. (průměrná mzda); zákoník práce (DPP).
+- *Judikatura:* obecný výklad sčítání DPP u téhož zaměstnavatele za účelem zamezení obcházení.
+
+**4. Subsumpce.** Úhrn z obou DPP u téhož zaměstnavatele v květnu 3 400 Kč < hranice 11 500 Kč → účast v květnu nevzniká. Sčítání dle odst. 3 se provede, ale ani součet hranice nedosahuje.
+
+**5. Řešení.** V květnu účast nevznikla; doba pojištění se za květen nezapočítá. Účast by vznikla teprve v měsíci, kdy úhrn dosáhne 25 % průměrné mzdy. Procesní krok: sledovat aktuální hranici dle sdělení MPSV a souběh všech DPP u téhož zaměstnavatele (vč. právního nástupce).
+
+**6. Varianty.** (a) Úhrn DPP v měsíci dosáhne 12 000 Kč → účast vzniká, počítá se doba pojištění za daný měsíc. (b) DPP u dvou různých zaměstnavatelů → nesčítají se; každá se posuzuje samostatně.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „U DPP platí stejná hranice 2 000 Kč jako u běžného zaměstnání." Neutralizace: § 7a má vlastní vyšší hranici (25 % průměrné mzdy), řádově 5–6× vyšší; § 6 se na DPP nepoužije (§ 6 odst. 4).
+- *Protiargument:* rozdělením na více DPP se účasti vyhne. Neutralizace: odst. 3 sčítá příjmy z více DPP u téhož zaměstnavatele.
+- *Slabé místo:* hranici vyhlašuje MPSV sdělením a každoročně se mění — chyba v aktuální částce vede k nesprávnému posouzení účasti.
+
+#### H. Praktický závěr
+
+DPP má samostatný, výrazně vyšší příjmový práh účasti (25 % průměrné mzdy) a posuzuje se po měsících. Vždy ověř aktuální hranici dle sdělení MPSV a sečti všechny DPP u téhož zaměstnavatele.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Dosáhl zúčtovaný příjem z DPP v měsíci aktuální hranice (25 % průměrné mzdy)?
+- [ ] Existuje více DPP u téhož zaměstnavatele (sčítání dle odst. 3)?
+- [ ] Je použita správná, aktuálně vyhlášená výše hranice (sdělení MPSV)?
+
+**Typicky rozhodné důkazy / podklady:** DPP, mzdové listy po měsících, sdělení MPSV o výši hranice, evidence pojištění OSSZ.
+
 ---
 
 ### § 8 — Souběh pojištění z více zaměstnání
@@ -533,6 +815,41 @@ Hlavní pravidlo: každé zaměstnání zakládající účast generuje **samost
 2. **Více funkcí v zastupitelstvu** — uvolněný člen zastupitelstva, který současně zastává více funkcí (např. starosta + předseda komise), je pojištěn jen jednou.
 
 V obou případech jde o **antiagregační pravidlo** — zabraňuje umělému navyšování pojistné základny u jedné a téže osoby ve stejném subjektu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Pan K. má dva pracovní poměry na plný úvazek u dvou různých zaměstnavatelů (např. dopoledne u firmy A, odpoledne u firmy B), oba s mzdou nad rozhodným příjmem. Onemocní. Současně je jediným společníkem a jednatelem své s. r. o., kde rovněž pobírá odměnu. Sporné je, z kolika titulů je pojištěn. Důkazy: obě pracovní smlouvy, smlouva o výkonu funkce, mzdové doklady.
+
+**2. Právní otázka.** Z kolika pojištění je pojištěn zaměstnanec se dvěma pracovními poměry a současně se souběhem funkcí společníka a jednatele téže s. r. o.?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 8 — pluralitní pojištění z každého zaměstnání; výjimky (společník + jednatel téže s. r. o.; více funkcí v zastupitelstvu — jen jednou).
+- *Související ustanovení téhož zákona:* § 5 písm. a) bod 16 (společník/jednatel), § 14 odst. 2 (souběh — dávka jen jednou), § 20 (sčítání DVZ při souběhu).
+- *Související předpisy:* zákon č. 90/2012 Sb.; zákon č. 128/2000 Sb. (obce — zastupitelstva).
+- *Judikatura:* obecný výklad antiagregačního pravidla; NSS 72 Ad 17/2011-31 (rozlišení druhů pojištění).
+
+**4. Subsumpce.** Dva pracovní poměry u různých zaměstnavatelů → dvě samostatná pojištění (pluralitní pravidlo). Souběh společník + jednatel téže s. r. o. → jen jedno pojištění (výjimka). Celkem tedy tři pojištění (PP u A, PP u B, jedno z s. r. o.).
+
+**5. Řešení.** Pan K. je pojištěn ze tří titulů; pojistné se odvádí z každého. Při nemoci se nárok posoudí v každém pojištění zvlášť (§ 14 odst. 2), dávka však náleží jednou z úhrnu DVZ (§ 20). Procesní krok: zajistit správné vykázání všech pojištění u OSSZ.
+
+**6. Varianty.** (a) Místo dvou PP jde o souběh více SVČ → pojištěn jen jednou (§ 12, nikoli § 8). (b) Uvolněný zastupitel zastávající více funkcí v témž ÚSC → pojištěn jen jednou (výjimka v § 8).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Více funkcí znamená vždy více pojištění." Neutralizace: § 8 obsahuje dvě výslovné výjimky (společník+jednatel téže s. r. o.; více funkcí v témž zastupitelstvu) — pojištění jen jednou.
+- *Protiargument:* při souběhu dostane pojištěnec dávku vícekrát. Neutralizace: § 14 odst. 2 — dávka náleží jen jednou; § 20 stanoví sčítání DVZ.
+- *Slabé místo:* hranice „téhož zaměstnavatele" a „téhož ÚSC" může být sporná u organizačních složek a městských částí.
+
+#### H. Praktický závěr
+
+Pravidlem je samostatné pojištění z každého zaměstnání zakládajícího účast. Výjimky platí jen pro souběh společníka a jednatele téže s. r. o. a pro více funkcí v témž zastupitelstvu. Při souběhu se dávka vyplácí jednou z úhrnu vyměřovacích základů.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kolik samostatných zaměstnání zakládajících účast osoba vykonává?
+- [ ] Nejde o výjimku (společník + jednatel téže s. r. o.; více funkcí v témž zastupitelstvu)?
+- [ ] Při souběhu: posuzuje se nárok v každém pojištění zvlášť (§ 14) a sčítá se DVZ (§ 20)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouvy, smlouva o výkonu funkce, doklady o odměnách, evidence pojištění u jednotlivých zaměstnavatelů.
 
 ---
 
@@ -561,6 +878,41 @@ Zaměstnanci mezinárodních organizací (OSN, NATO, OECD, OSCE atd.) mohou být
 #### Cizinci bez povolení k pobytu (odst. 2)
 
 Občané třetích států (mimo EU) zaměstnaní v ČR **bez platného pobytového oprávnění** jsou z pojištění **vyňati**. Norma sleduje dvojí účel: jednak nepřiznává sociální ochranu osobám pobývajícím v ČR neoprávněně, jednak nepřímo působí proti zaměstnávání nelegálních migrantů. V praxi to však znamená, že tito lidé sice (nelegálně) pracují, ale v případě úrazu či nemoci nemají z nemocenského pojištění nárok — nelze tedy obejít zákaz nelegálního zaměstnávání předstíráním pojistné účasti.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Občan Ukrajiny (mimo EU) bez platného pobytového oprávnění pracuje „na černo" v české firmě. Po pracovním úrazu uplatňuje nárok na nemocenské. Současně jiný zaměstnanec — pracovník mezinárodní organizace v Praze — chce být vyňat z českého pojištění. Účastníci: cizinec, zaměstnavatel, pracovník MO, OSSZ. Důkazy: doklad o pobytovém oprávnění (resp. jeho absenci), potvrzení MO o pojištění, prohlášení o vynětí.
+
+**2. Právní otázka.** Je cizinec bez pobytového oprávnění vyňat z pojištění dle § 9 odst. 2, a za jakých podmínek může být vyňat pracovník mezinárodní organizace dle odst. 1 písm. b)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 9 odst. 1 písm. a) (diplomatické imunity), písm. b) (mezinárodní organizace + prohlášení), odst. 2 (cizinci bez pobytového oprávnění).
+- *Související ustanovení téhož zákona:* § 5, § 6 (okruh a podmínky účasti), § 3 (vymezení pojmů).
+- *Související předpisy:* zákon č. 326/1999 Sb. (pobyt cizinců), vyhl. č. 157/1964 Sb. a č. 32/1969 Sb. (Vídeňské úmluvy), zákon č. 435/2004 Sb. (nelegální zaměstnávání).
+- *Judikatura:* obecný výklad, že sociální ochrana se nepřiznává osobám pobývajícím neoprávněně; vynětí je obligatorní.
+
+**4. Subsumpce.** Cizinec ze třetího státu bez platného pobytového oprávnění → naplňuje znaky odst. 2 → je z pojištění vyňat *ex lege*, bez ohledu na faktický výkon práce. Pracovník MO → vyňat jen, je-li pojištěn prostřednictvím MO a podá-li prohlášení (odst. 1 písm. b).
+
+**5. Řešení.** Cizinci nárok na nemocenské nevznikne — je vyňat z pojištění; předstíraná pojistná účast nelze. Pracovník MO bude vyňat pouze po splnění obou podmínek (pojištění přes MO + prohlášení prostřednictvím MO). Riziko pro cizince: ztráta sociální ochrany, případně sankce za nelegální zaměstnávání na straně zaměstnavatele.
+
+**6. Varianty.** (a) Cizinec získá platné pobytové oprávnění → vynětí dle odst. 2 odpadá, účast vzniká. (b) Pracovník MO prohlášení nepodá → zůstává účasten českého pojištění.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Když fakticky pracoval a byl mu sražen odvod, musí být pojištěn." Neutralizace: vynětí dle odst. 2 je obligatorní; faktický výkon ani případné srážky nezakládají účast u neoprávněně pobývajícího cizince.
+- *Protiargument:* každý pracovník MO je automaticky vyňat. Neutralizace: vynětí je podmíněno pojištěním přes MO a podáním prohlášení (odst. 1 písm. b) — bez nich účast trvá.
+- *Slabé místo:* posouzení „platného oprávnění k pobytu" závisí na cizineckém právu; v mezidobí (přerušení/obnova víza) může být status sporný.
+
+#### H. Praktický závěr
+
+§ 9 vyjímá z pojištění tři skupiny: diplomaty pojištěné jinde, pracovníky mezinárodních organizací (po prohlášení) a cizince ze třetích států bez pobytového oprávnění. U cizinců je vynětí obligatorní a nelze ho obejít předstíranou účastí.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o diplomata/konzula pojištěného v jiném státě (písm. a)?
+- [ ] U pracovníka MO: je pojištěn přes MO a podal prohlášení (písm. b)?
+- [ ] Jde o cizince ze třetího státu bez platného pobytového oprávnění (odst. 2 — obligatorní vynětí)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o pobytovém oprávnění, potvrzení o pojištění v jiném státě / MO, prohlášení o vynětí, pracovní smlouva.
 
 ---
 
@@ -635,6 +987,42 @@ Vznik a zánik pojištění zahraničního zaměstnance je vázán na **přihlá
 
 Nástup do výkonu trestu odnětí svobody nebo zabezpečovací detence způsobuje **zánik dosavadního pojištění** (pojistná povinnost se přerušuje). Po skončení výkonu trestu a opětovném nástupu do zaměstnání pojištění vznikne znovu — to platí typicky pro situace, kdy byl zaměstnanec před nástupem trestu na dlouhodobé absenci a pracovní poměr formálně trvá.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně podepsala pracovní smlouvu s nástupem 1. září, ale 1. září fakticky nenastoupila (nemoc) a do práce přišla až 3. září. ČSSZ řeší, kdy jí vzniklo pojištění a zda za 1.–2. září byla pojištěna. V jiné variantě jí předchozí PP na dobu určitou skončil v pátek a nový (u téhož zaměstnavatele) navázal od pondělí. Důkazy: pracovní smlouva, docházka, doklad o náhradě mzdy/platu.
+
+**2. Právní otázka.** Vzniká pojištění dnem sjednaného nástupu, nebo dnem faktického výkonu práce (§ 10 odst. 1, 2), a zachová se kontinuita pojištění při bezprostřední návaznosti dvou PP (odst. 6)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 10 odst. 1 (vznik dnem výkonu práce / zánik dnem skončení), odst. 2 (fikce dne nástupu u PP a státní služby), odst. 6 (návaznost bez přerušení).
+- *Související ustanovení téhož zákona:* § 3 písm. w) (doba zaměstnání), § 6 (podmínky účasti), § 15 (ochranná lhůta), § 7 a § 7a (ZMR/DPP — vyloučení návaznosti).
+- *Související předpisy:* zákoník práce (§ 34 a násl. — vznik PP, náhrada mzdy).
+- *Judikatura:* NSS 2 Ad 6/2018-75 (4. 12. 2019) — účast vzniká dnem faktického výkonu práce, resp. možnosti jej vykonávat, nikoli pouze dnem vzniku pracovního poměru.
+
+**4. Subsumpce.** Faktický nástup až 3. září → dle odst. 1 a judikatury NSS účast vzniká 3. září (nikoli 1. září). Fikce odst. 2 by posunula vznik jen tehdy, pokud by za 1.–2. září příslušela náhrada mzdy / plat se nekrátil. Při bezprostřední návaznosti dvou plných PP u téhož zaměstnavatele (odst. 6) trvá pojištění bez přerušení.
+
+**5. Řešení.** Pojištění vzniklo 3. září (nedošlo-li k naplnění fikce odst. 2). Při návaznosti PP platí kontinuita dle odst. 6, což zachová podpůrčí dobu, čekací dobu pro PPM a ochrannou lhůtu. Riziko: je-li jedno ze zaměstnání ZMR nebo DPP, kontinuita dle odst. 6 neplatí.
+
+**6. Varianty.** (a) Za 1.–2. září příslušela náhrada mzdy → fikce odst. 2, pojištění od 1. září. (b) Nástup do výkonu trestu během trvání pojištění → zánik dnem nástupu (odst. 9), nový vznik po skončení trestu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Pojištění vzniká podpisem / sjednaným dnem nástupu." Neutralizace: NSS 2 Ad 6/2018-75 — rozhodný je faktický výkon práce (odst. 1); sjednaný den bez nástupu nestačí.
+- *Protiargument:* každé navázání PP zachovává kontinuitu. Neutralizace: odst. 6 vylučuje návaznost, je-li jedno zaměstnání ZMR nebo DPP.
+- *Slabé místo:* uplatnění fikce odst. 2 závisí na posouzení, zda za den před nástupem „příslušela náhrada mzdy/platu" — sporné u svátků a překážek.
+
+#### H. Praktický závěr
+
+Pojištění zaměstnance vzniká dnem skutečného nástupu k práci (s fikcí dle odst. 2) a zaniká dnem skončení doby zaměstnání. Při bezprostřední návaznosti plných PP u téhož zaměstnavatele se zachová kontinuita (odst. 6), nejde-li o ZMR/DPP. Vždy ověř faktický nástup, nikoli jen formální data smlouvy.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Kdy zaměstnanec fakticky začal vykonávat práci (vznik dle odst. 1)?
+- [ ] Příslušela za den před nástupem náhrada mzdy/platu (fikce odst. 2)?
+- [ ] Navazují PP bezprostředně a nejde o ZMR/DPP (kontinuita odst. 6)?
+- [ ] Nenastal důvod zániku (pokles příjmu odst. 4, výkon trestu odst. 9)?
+
+**Typicky rozhodné důkazy / podklady:** pracovní smlouva, docházka / evidence výkonu práce, doklady o náhradě mzdy, oznámení o nástupu/skončení u OSSZ.
+
 ---
 
 ### HLAVA III — Účast osob samostatně výdělečně činných na pojištění
@@ -672,6 +1060,41 @@ Volba OSVČ má vážné důsledky:
 
 V praxi se k pojištění hlásí menšina OSVČ — odhad podle dat ČSSZ se pohybuje pod 10 % registrovaných OSVČ. Důvody: vysoká pojistná smluvní volnost, alternativa komerčního pojištění, krátkodobé pojetí podnikání.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Živnostnice (grafička) plánuje za 4 měsíce porod a chce mít nárok na PPM. Dosud se k nemocenskému pojištění OSVČ nepřihlásila, platí jen povinné důchodové. Ptá se, zda se může přihlásit a zda jí PPM bude náležet. Důkazy: živnostenský list, přihláška k nemocenskému pojištění OSVČ, doklady o platbách pojistného.
+
+**2. Právní otázka.** Vzniká OSVČ účast na nemocenském pojištění bez přihlášky, a jaké podmínky musí splnit, aby jí náležela PPM?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 11 písm. a) (výkon SVČ na základě českého oprávnění), písm. b) (přihláška na předepsaném tiskopisu).
+- *Související ustanovení téhož zákona:* § 2 písm. b) (dobrovolnost), § 13 (vznik a zánik, sankce za neplacení), § 32 odst. 3 (čekací doba 180 dnů pro PPM u OSVČ), § 24 (čekací doba pro nemocenské).
+- *Související předpisy:* zákon č. 155/1995 Sb. (pojem OSVČ); zákon č. 589/1992 Sb. (pojistné).
+- *Judikatura:* obecný výklad dobrovolnosti účasti OSVČ a nutnosti přihlášky.
+
+**4. Subsumpce.** Grafička vykonává SVČ na základě českého živnostenského oprávnění ✓ (písm. a). Účast však vznikne až podáním přihlášky (písm. b) — bez ní není pojištěna, byť platí důchodové pojistné. Pro PPM musí navíc splnit čekací dobu (§ 32 odst. 3 — 180 dnů účasti).
+
+**5. Řešení.** OSVČ se musí přihlásit a poté plnit pojistné; PPM jí bude náležet, jen splní-li 180denní čekací dobu před nástupem na PPM (a 270 dnů v posledních 2 letech dle § 32 odst. 2). Při porodu za 4 měsíce (cca 120 dnů) hrozí nesplnění čekací doby. Procesní krok: přihlásit se neprodleně a hlídat platby.
+
+**6. Varianty.** (a) Podnikání jen na základě zahraničního oprávnění → nesplněn znak písm. a), účast nevzniká. (b) Přihláška podána včas s dostatečným předstihem → čekací doba splněna, PPM náleží.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Platím-li důchodové pojistné, jsem pojištěna i nemocensky." Neutralizace: nemocenské pojištění OSVČ je dobrovolné a vzniká až přihláškou (písm. b), nezávisle na důchodovém.
+- *Protiargument:* postačí přihlásit se těsně před porodem. Neutralizace: § 32 odst. 3 vyžaduje 180 dnů účasti před nástupem na PPM.
+- *Slabé místo:* nízká informovanost OSVČ vede k tomu, že se přihlásí pozdě a o dávku přijdou; data ČSSZ ukazují přihlášenost pod 10 %.
+
+#### H. Praktický závěr
+
+OSVČ je nemocensky pojištěna jen na základě vlastní přihlášky a při výkonu SVČ podle českého oprávnění. Bez přihlášky nárok na žádnou dávku nevznikne. Pojištění je nutné zahájit s dostatečným předstihem před plánovanou sociální událostí kvůli čekacím dobám.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vykonává OSVČ SVČ na základě českého oprávnění (písm. a)?
+- [ ] Byla podána přihláška na předepsaném tiskopisu (písm. b)?
+- [ ] Jsou splněny čekací doby pro konkrétní dávku (§ 24, § 32 odst. 3)?
+
+**Typicky rozhodné důkazy / podklady:** živnostenské/jiné oprávnění, přihláška k nemocenskému pojištění OSVČ, doklady o úhradě pojistného, evidence OSSZ.
+
 ---
 
 ### § 12 — Pojištění při výkonu několika samostatných výdělečných činností
@@ -689,6 +1112,41 @@ Na rozdíl od zaměstnanců (§ 8 — pluralitní pojištění z každého zamě
 Důvod je systémový: OSVČ má **jeden vyměřovací základ** pro důchodové i nemocenské pojištění, který se počítá z celkového hospodářského výsledku jejích činností. Pojišťovat ji „dvakrát" by nedávalo smysl.
 
 V důsledku: souběh SVČ nezvyšuje počet pojištění, ale pouze celkový vyměřovací základ (a tedy i potenciální pojistné a dávky).
+
+#### F. Kazuistika
+
+**1. Modelová situace.** OSVČ provozuje současně řemeslnou živnost (truhlářství) a vedle toho samostatnou zemědělskou činnost. Je k nemocenskému pojištění přihlášena. Domnívá se, že platí (a je pojištěna) „dvakrát", a očekává proto vyšší nemocenské. Důkazy: dvě oprávnění (živnostenský list, evidence zemědělce), přehled o příjmech a výdajích, doklady o platbě pojistného.
+
+**2. Právní otázka.** Je OSVČ vykonávající více SVČ pojištěna vícekrát, nebo jen jednou (§ 12)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 12 — při souběhu více SVČ je OSVČ pojištěna jen jednou.
+- *Související ustanovení téhož zákona:* § 8 (oproti tomu pluralitní pojištění zaměstnanců), § 11 (přihláška), § 18 a násl. (jeden vyměřovací základ a DVZ).
+- *Související předpisy:* zákon č. 155/1995 Sb. (§ 9 — pojem SVČ, jeden vyměřovací základ); zákon č. 589/1992 Sb.
+- *Judikatura:* obecný výklad jednotného vyměřovacího základu OSVČ.
+
+**4. Subsumpce.** Truhlářství i zemědělská činnost jsou SVČ vykonávané souběžně toutéž osobou → dle § 12 jediné pojištění. Vyměřovací základ se počítá z celkového hospodářského výsledku obou činností, nikoli z každé zvlášť.
+
+**5. Řešení.** OSVČ je pojištěna jen jednou; neplatí „dvojí" pojistné ani nemá dvojí nárok. Souběh činností pouze zvyšuje celkový vyměřovací základ (a tedy i potenciální dávku). Procesní krok: ověřit správné určení měsíčního vyměřovacího základu z úhrnu činností.
+
+**6. Varianty.** (a) Kdyby šlo o dva pracovní poměry zaměstnance → pluralitní pojištění (§ 8), nikoli § 12. (b) Ukončení jedné z činností → pojištění trvá z té zbývající, mění se jen vyměřovací základ.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Více činností = více pojištění a vyšší dávka." Neutralizace: § 12 výslovně stanoví pojištění jen jednou; vyšší může být jen vyměřovací základ, ne počet pojištění.
+- *Protiargument:* analogie s § 8 (zaměstnanci) zakládá pluralitu. Neutralizace: § 8 a § 12 jsou záměrně odlišné — zaměstnanci mají více vyměřovacích základů, OSVČ jeden.
+- *Slabé místo:* správné rozdělení příjmů a výdajů mezi činnosti pro určení jednoho vyměřovacího základu může být v praxi nejasné.
+
+#### H. Praktický závěr
+
+OSVČ je při souběhu více samostatných výdělečných činností pojištěna jen jednou; má jeden vyměřovací základ z celkového hospodářského výsledku. Na rozdíl od zaměstnanců (§ 8) souběh nezvyšuje počet pojištění, jen vyměřovací základ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Jde o souběh více SVČ téže osoby (pak jen jedno pojištění dle § 12)?
+- [ ] Je vyměřovací základ určen z úhrnu všech činností?
+- [ ] Nezaměňuje se režim OSVČ s pluralitním pojištěním zaměstnanců (§ 8)?
+
+**Typicky rozhodné důkazy / podklady:** oprávnění k jednotlivým činnostem, přehled o příjmech a výdajích, doklady o platbě pojistného, evidence OSSZ.
 
 ---
 
@@ -735,6 +1193,41 @@ Praktický důsledek: pokud OSVČ uvažuje o pojištění, musí ho zahájit **p
 
 Tato „pasti" si OSVČ často nejsou vědomy — praxe ČSSZ ji aplikuje striktně. Doporučení: nastavit trvalý příkaz, kontrolovat výši pojistného při změně vyměřovacího základu (např. po podání daňového přiznání s vyšším ziskem).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** OSVČ je přihlášena k nemocenskému pojištění a pravidelně platí. Po podání daňového přiznání jí vzroste vyměřovací základ, takže měla platit vyšší zálohu pojistného; ona však i nadále hradí starou (nižší) částku. V polovině měsíce onemocní a žádá o nemocenské. Důkazy: přihláška, doklady o platbách, přehled OSVČ, datum vzniku DPN.
+
+**2. Právní otázka.** Zaniklo OSVČ pojištění podle § 13 odst. 2 písm. e) tím, že zaplatila pojistné v nižší než stanovené částce, a má tedy nárok na nemocenské?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 13 odst. 1 (vznik dnem dle přihlášky), odst. 2 písm. e) (zánik prvním dnem měsíce, za který nebylo zaplaceno řádně), písm. a)–d), f) (další důvody zániku).
+- *Související ustanovení téhož zákona:* § 11 (přihláška), § 14 odst. 1 (účast v den sociální události), § 23 a násl. (nemocenské).
+- *Související předpisy:* zákon č. 589/1992 Sb. (lhůty a výše pojistného OSVČ).
+- *Judikatura:* obecný výklad striktní aplikace zániku při neplacení/podplacení pojistného.
+
+**4. Subsumpce.** Pojistné bylo za daný měsíc zaplaceno v nižší částce, než mělo být → naplněn znak písm. e) → pojištění zaniklo prvním dnem tohoto kalendářního měsíce. DPN vznikla v polovině měsíce, tedy v době, kdy účast již neexistovala (§ 14 odst. 1 nesplněn).
+
+**5. Řešení.** Nárok na nemocenské nevznikne — pojištění retrospektivně zaniklo k 1. dni měsíce pro podplacení pojistného (písm. e). Procesní krok: jediná obrana je prokázat, že částka byla ve skutečnosti správná / včas doplacená v zákonné lhůtě. Doporučení: trvalý příkaz a kontrola výše po každém daňovém přiznání.
+
+**6. Varianty.** (a) OSVČ doplatila rozdíl ve stanovené lhůtě → pojištění nezaniká, nemocenské náleží. (b) OSVČ podala odhlášku k pozdějšímu dni → zánik dle písm. a), nikoli sankčně k 1. dni měsíce.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Drobné podplacení nemůže zničit celé pojištění." Neutralizace: písm. e) výslovně postihuje i zaplacení v nižší částce; praxe ČSSZ je striktní.
+- *Protiargument:* pojištění zaniká až ode dne zjištění. Neutralizace: zánik nastává *ex lege* prvním dnem dotčeného měsíce, retrospektivně.
+- *Slabé místo:* tvrdost pravidla naráží na princip přiměřenosti; v ojedinělých případech lze zvažovat prominutí/posečkání podle pojistných předpisů, jistota však chybí.
+
+#### H. Praktický závěr
+
+Pojištění OSVČ vzniká dnem dle přihlášky (nejdříve dnem podání) a zaniká z šesti důvodů; nejnebezpečnější je zánik pro neplacení nebo podplacení pojistného (písm. e), který nastává retrospektivně k 1. dni měsíce a vede ke ztrátě nároku na dávky. Plať včas a ve správné výši, zejména po změně vyměřovacího základu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Bylo pojistné za rozhodný měsíc zaplaceno včas a ve správné výši (písm. e)?
+- [ ] Existovala pojistná účast v den vzniku sociální události (§ 14 odst. 1)?
+- [ ] Nenastal jiný důvod zániku (odhláška, skončení/pozastavení činnosti, výkon trestu)?
+
+**Typicky rozhodné důkazy / podklady:** přihláška/odhláška, doklady o platbách pojistného a jejich výši, přehled OSVČ, rozhodnutí o DPN s datem vzniku.
+
 ---
 
 ## ČÁST TŘETÍ — Dávky (úvodní pasáž k § 14 a § 15 — obecné podmínky nároku a ochranná lhůta)
@@ -771,6 +1264,41 @@ Při souběhu pojištění (např. zaměstnanec se dvěma souběžnými PP u rů
 Pravidlo „**jednou dávka**": přestože se nárok posuzuje v každém pojištění zvlášť, samotná dávka náleží jen **jednou** (s výjimkou vyrovnávacího příspěvku v T a M). Smysl: pojištěnec nemá z téhož titulu pobírat „dvojnásobné" nemocenské. Místo toho se podle § 20 sčítají DVZ z jednotlivých pojištění a vypočítá se jediná dávka z úhrnu.
 
 Výjimka u **vyrovnávacího příspěvku** je dána povahou této dávky: dorovnává rozdíl příjmu po převedení, který se posuzuje v každém zaměstnání zvlášť.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec má souběžně dva pracovní poměry u různých zaměstnavatelů, oba zakládají účast. Z jednoho splnil čekací dobu pro PPM/nemocenské, z druhého (nově nastoupeného) nikoli. Nastane sociální událost (DPN). Sporné je, zda a z kolika pojištění mu náleží dávka a jak se vypočte. Důkazy: obě pracovní smlouvy, doklady o dobách pojištění, mzdové listy.
+
+**2. Právní otázka.** Jak se posuzuje nárok na dávku při souběhu pojištění a kolikrát dávka náleží (§ 14 odst. 1, 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 14 odst. 1 (účast v den sociální události), odst. 2 (souběh — posouzení v každém pojištění zvlášť; dávka jen jednou, mimo vyrovnávací příspěvek).
+- *Související ustanovení téhož zákona:* § 8 (souběh pojištění), § 20 (sčítání DVZ), § 15 (ochranná lhůta), § 32 odst. 2 (čekací doba PPM), § 42 (vyrovnávací příspěvek).
+- *Související předpisy:* zákon č. 589/1992 Sb.
+- *Judikatura:* NSS 72 Ad 17/2011-31 — pojištění z různých činností jsou samostatná pojištění.
+
+**4. Subsumpce.** V den DPN trvá účast z obou PP (§ 14 odst. 1). Podmínky se posoudí v každém pojištění zvlášť (odst. 2): z prvního PP nárok vznikne, z druhého (nesplněná čekací doba) nikoli. Dávka přesto náleží jen jednou.
+
+**5. Řešení.** Nemocenské náleží jednou; vypočte se ze sečtených DVZ obou pojištění (§ 20), v nichž nárok vznikl. Procesní krok: doložit doby pojištění z obou zaměstnání. Riziko: u dávky, kde čekací dobu splňuje jen jedno pojištění, se do výpočtu zahrne jen toto pojištění.
+
+**6. Varianty.** (a) Jde o vyrovnávací příspěvek v T a M → výjimka, náleží z každého pojištění zvlášť (odst. 2 in fine). (b) V den sociální události účast netrvá, ale běží ochranná lhůta (§ 15) → nárok přesto může vzniknout.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Mám dvě pojištění, dostanu dávku dvakrát." Neutralizace: § 14 odst. 2 — dávka (vyjma vyrovnávacího příspěvku) náleží jen jednou; sčítá se DVZ (§ 20).
+- *Protiargument:* nárok stačí splnit v kterémkoli pojištění a dávka se počítá ze všech. Neutralizace: podmínky se posuzují v každém pojištění zvlášť; do výpočtu vstupují jen pojištění, v nichž nárok vznikl.
+- *Slabé místo:* určení dne sociální události a párování s dobami jednotlivých pojištění bývá administrativně náročné.
+
+#### H. Praktický závěr
+
+Nárok na dávku vzniká, trvá-li v den sociální události pojištění a jsou splněny podmínky konkrétní dávky. Při souběhu se podmínky posuzují v každém pojištění zvlášť, dávka však náleží jen jednou (kromě vyrovnávacího příspěvku) a počítá se z úhrnu DVZ.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Trvalo v den sociální události pojištění (nebo běžela ochranná lhůta dle § 15)?
+- [ ] Jsou splněny zvláštní podmínky/čekací doby konkrétní dávky?
+- [ ] Při souběhu: posouzeno v každém pojištění zvlášť a dávka přiznána jen jednou (mimo vyrovnávací příspěvek)?
+
+**Typicky rozhodné důkazy / podklady:** doklady o dobách pojištění z jednotlivých činností, mzdové listy (DVZ), rozhodnutí o vzniku sociální události, žádost o dávku.
 
 ---
 
@@ -857,6 +1385,41 @@ I když ochranná lhůta běží, **zaniká** v okamžiku, kdy nastoupí jiný t
 
 > **Praktický význam ochranné lhůty:** Jde o jeden z nejdůležitějších institutů, který je často přehlížen. Zaměstnanec, který skončí pracovní poměr ke konci měsíce a do týdne onemocní, by bez ochranné lhůty zůstal bez ochrany. Lhůta tak vyrovnává časovou prodlevu před vznikem nového pojištění (nový pracovní poměr, registrace na úřadu práce s podporou v nezaměstnanosti, přihlášení k pojištění jako OSVČ). U **těhotných žen** je 180denní lhůta navíc reflexí zranitelnosti během těhotenství a snahou předejít diskriminaci.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Těhotné ženě skončí pracovní poměr 31. března (v té době je již prokazatelně těhotná). Nový pracovní poměr nesjedná. Na peněžitou pomoc v mateřství má nastoupit 20. července. Sporné je, zda jí PPM náleží, ač v den nástupu na PPM již není pojištěna. Důkazy: doklad o skončení PP, těhotenská průkazka / lékařské potvrzení o těhotenství k datu zániku pojištění, doklad o nástupu na PPM.
+
+**2. Právní otázka.** Náleží PPM, došlo-li k nástupu na PPM po zániku pojištění, ale v rámci 180denní ochranné lhůty pro těhotné ženy (§ 15 odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15 odst. 1 (obecná 7denní lhůta pro nemocenské/karanténu), odst. 2 (180denní lhůta pro těhotné, PPM), odst. 3 (samostatně z každé činnosti), odst. 4 (kdy lhůta neplyne), odst. 5 (zánik lhůty).
+- *Související ustanovení téhož zákona:* § 3 písm. a) (pojištěnec v ochranné lhůtě), § 14 (obecné podmínky), § 32 (PPM a její čekací doby).
+- *Související předpisy:* zákon č. 589/1992 Sb.
+- *Judikatura:* obecný výklad ochranné lhůty jako „prodlouženého pojistného stínu".
+
+**4. Subsumpce.** Pojištění zaniklo v době těhotenství → uplatní se 180denní lhůta (odst. 2). Od 31. března do 20. července je cca 111 dnů, tedy v rámci 180 dnů → nástup na PPM spadá do ochranné lhůty. Lhůta neplyne ze ZMR/DPP (odst. 4), o ně zde však nejde.
+
+**5. Řešení.** PPM náleží, neboť nástup nastal v 180denní ochranné lhůtě; navíc musí být splněna obecná čekací doba 270 dnů v posledních 2 letech (§ 32 odst. 2). Procesní krok: doložit těhotenství k datu zániku pojištění. Riziko: vznik nového pojištění by lhůtu zastavil/ukončil (odst. 5 písm. a), s výjimkou nového pojištění OSVČ bez nároku.
+
+**6. Varianty.** (a) Pojištění zaniklo ze ZMR → ochranná lhůta neplyne (odst. 4 písm. c), PPM nenáleží. (b) Žena nastoupí nové zaměstnání → ochranná lhůta zaniká vznikem nového pojištění (odst. 5 písm. a), posuzuje se z nového pojištění.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Po skončení pracovního poměru už žádná dávka nenáleží." Neutralizace: § 15 zakládá ochrannou lhůtu (7 dnů, u těhotných 180 dnů), v níž nárok vzniká i po zániku pojištění.
+- *Protiargument:* 180denní lhůta platí pro každou ženu. Neutralizace: jen pro ženy, jejichž pojištění zaniklo v době těhotenství; jinak činí lhůta 7 dnů.
+- *Slabé místo:* z řady činností lhůta vůbec neplyne (ZMR, DPP, prázdninové studentské zaměstnání aj. — odst. 4) a snadno zaniká vznikem nového pojištění (odst. 5); přehlédnutí vede k zamítnutí.
+
+#### H. Praktický závěr
+
+Ochranná lhůta je unikátní institut, který poskytuje pojistnou ochranu krátce po zániku pojištění: 7 dnů obecně, 180 dnů u žen otěhotnělých za trvání pojištění (pro PPM). Vždy ověř, zda lhůta z dané činnosti vůbec plyne (odst. 4) a zda nezanikla (odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Nastala sociální událost v ochranné lhůtě (7, resp. 180 dnů u těhotných)?
+- [ ] Plyne lhůta z dané pojištěné činnosti (nejde o ZMR/DPP/studentské prázdninové zaměstnání — odst. 4)?
+- [ ] Nezanikla lhůta vznikem nového pojištění či jiným důvodem (odst. 5)?
+
+**Typicky rozhodné důkazy / podklady:** doklad o zániku pojištění, lékařské potvrzení o těhotenství k datu zániku, doklad o nástupu na PPM/vzniku DPN, doklady o dobách pojištění.
+
 ---
 
 ### § 15a — Dávky při zaměstnání malého rozsahu a DPP
@@ -873,6 +1436,41 @@ Ustanovení § 15a řeší specifickou situaci u ZMR a DPP: účast na pojiště
 2. pojištěnec byl v rámci tohoto ZMR/DPP pojištěn **alespoň ve 3 měsících bezprostředně předcházejících** měsíci sociální události.
 
 Tato „retroaktivní ochrana" působí podobně jako ochranná lhůta, ale netýká se skončení zaměstnání, nýbrž jen výpadku účasti v rámci trvajícího zaměstnání.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnankyně pracuje dlouhodobě na DPČ, která je zaměstnáním malého rozsahu. V lednu, únoru a březnu dosáhla rozhodného příjmu (byla pojištěna), v dubnu však ne (účast „neběží"). Právě v dubnu vznikne potřeba ošetřování nemocného dítěte. Sporné je, zda jí náleží ošetřovné, ač v dubnu není účastna. Důkazy: DPČ, mzdové listy za leden–duben, doklad o potřebě ošetřování (§ 39).
+
+**2. Právní otázka.** Náleží dávka při ZMR/DPP i v měsíci, kdy účast neběží, byl-li pojištěnec v tomto zaměstnání pojištěn alespoň ve 3 bezprostředně předcházejících měsících (§ 15a)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 15a — nemocenské, PPM, otcovská a ošetřovné náleží i v měsíci bez účasti, byl-li pojištěnec pojištěn aspoň ve 3 měsících bezprostředně předcházejících.
+- *Související ustanovení téhož zákona:* § 7 (ZMR), § 7a (DPP), § 39 (ošetřovné), § 14 (obecné podmínky), § 15 (ochranná lhůta).
+- *Související předpisy:* zákoník práce.
+- *Judikatura:* obecný výklad § 15a jako „retroaktivní ochrany" při výpadku účasti během trvajícího zaměstnání.
+
+**4. Subsumpce.** Zaměstnání (DPČ) trvá i v dubnu ✓. Pojištěnkyně byla v rámci tohoto ZMR pojištěna v lednu, únoru i březnu, tedy ve 3 měsících bezprostředně předcházejících dubnu ✓ → fikce kontinuity dle § 15a se uplatní.
+
+**5. Řešení.** Ošetřovné v dubnu náleží i přesto, že účast v dubnu neběží, protože byla splněna podmínka 3 předcházejících měsíců pojištění v témž zaměstnání. Procesní krok: doložit pojištění ve 3 předchozích měsících. Riziko: kdyby v některém z těchto 3 měsíců účast chyběla, fikce se neuplatní.
+
+**6. Varianty.** (a) Pojištěna jen ve 2 z předchozích 3 měsíců → § 15a se neuplatní, ošetřovné nenáleží. (b) Sociální událostí by bylo dlouhodobé ošetřovné → na to § 15a nedopadá (vyjmenovává jen nemocenské, PPM, otcovskou a ošetřovné).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „V měsíci bez účasti dávka nikdy nenáleží." Neutralizace: § 15a zakládá výjimku — fikci kontinuity při splnění 3 měsíců předchozí účasti.
+- *Protiargument:* § 15a kryje všechny dávky. Neutralizace: vztahuje se jen na nemocenské, PPM, otcovskou a ošetřovné, nikoli na dlouhodobé ošetřovné a vyrovnávací příspěvek.
+- *Slabé místo:* podmínka „3 bezprostředně předcházejících měsíců" je přísná; jediný výpadek v řadě ji zruší.
+
+#### H. Praktický závěr
+
+§ 15a chrání pojištěnce v ZMR/DPP před ztrátou dávky v měsíci, kdy účast zrovna „neběží", pokud byl v témž zaměstnání pojištěn alespoň ve 3 bezprostředně předcházejících měsících. Působí jako vnitřní obdoba ochranné lhůty, ale jen pro vyjmenované čtyři dávky.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Trvá ZMR/DPP i v měsíci sociální události?
+- [ ] Byl pojištěnec v témž zaměstnání pojištěn aspoň ve 3 bezprostředně předcházejících měsících?
+- [ ] Jde o některou ze čtyř krytých dávek (nemocenské, PPM, otcovská, ošetřovné)?
+
+**Typicky rozhodné důkazy / podklady:** DPČ/DPP, mzdové listy a evidence účasti za poslední měsíce, doklad o sociální události (DPN, potřeba ošetřování).
 
 ---
 
@@ -906,6 +1504,41 @@ Nemocenské pojištění **kompenzuje ztrátu příjmu** v důsledku sociální 
 3. **Vazba** (písm. c) — výplata dávek vzniklých před vzetím do vazby se přerušuje.
 4. **Výkon trestu / detence** (písm. d) — analogicky. Výjimka: PPM se vyplácí i ve výkonu trestu, jestliže matka pečuje o dítě (existují speciální oddělení pro matky s dětmi).
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Voják z povolání je uznán dočasně práce neschopným, avšak po dobu DPN mu nadále náleží služební příjem podle zvláštního předpisu. Současně mu je vyplácen služební příspěvek na bydlení. Domáhá se výplaty nemocenského. Účastníci: voják (pojištěnec), služební útvar, ČSSZ. Důkazy: rozhodnutí o DPN, doklady o vyplácených služebních příjmech a o příspěvku na bydlení.
+
+**2. Právní otázka.** Vylučuje souběžné pobírání započitatelného příjmu ze zaměstnání výplatu nemocenského dle § 16 písm. b), a jak se posoudí služební příspěvek na bydlení?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 16 písm. a) (výkon práce/SVČ), písm. b) (pobírání započitatelného příjmu; výjimka — služební příspěvek na bydlení vojáků), písm. c), d) (vazba, výkon trestu; výjimka PPM při péči o dítě).
+- *Související ustanovení téhož zákona:* § 3 písm. e) (započitatelný příjem), § 23 a násl. (nemocenské), § 32 (PPM).
+- *Související předpisy:* zákon č. 221/1999 Sb. (vojáci z povolání — služební příjem a příspěvek na bydlení); zákoník práce (§ 192 — náhrada mzdy).
+- *Judikatura:* NSS 4 As 51/2019-44 (24. 2. 2021) — kumulace nároku na nemocenské a služebního příjmu není možná.
+
+**4. Subsumpce.** Po dobu, kdy vojákovi náleží služební příjem ze zaměstnání, z něhož by dávka náležela, je výplata nemocenského vyloučena dle písm. b). Služební příspěvek na bydlení je však výslovnou výjimkou — jeho pobírání výplatu nevylučuje.
+
+**5. Řešení.** Nemocenské se po dobu pobírání služebního příjmu nevyplácí (písm. b); zákaz dvojí kompenzace. Pobírání služebního příspěvku na bydlení samo o sobě výplatu nevylučuje. Procesní krok: ověřit období, za která náleží služební příjem, a od nich odlišit výplatu dávky.
+
+**6. Varianty.** (a) Žena ve výkonu trestu pečující o dítě → PPM se vyplácí (výjimka v písm. d). (b) Zaměstnanec „pracuje z domova" během DPN → výplata vyloučena dle písm. a) (výkon práce v pojištěné činnosti).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Nárok na dávku vznikl, tedy musí být vyplacena bez ohledu na příjem." Neutralizace: § 16 odlišuje vznik nároku od jeho výplaty — výplata se po dobu souběhu příjmu vylučuje (NSS 4 As 51/2019-44).
+- *Protiargument:* každý příjem ze zaměstnání vylučuje dávku. Neutralizace: služební příspěvek na bydlení vojáků je výslovnou výjimkou (písm. b).
+- *Slabé místo:* posouzení, co je „započitatelný příjem ze zaměstnání, z něhož dávka náleží", bývá sporné u kombinovaných plnění a u více souběžných zaměstnání.
+
+#### H. Praktický závěr
+
+§ 16 brání dvojí kompenzaci: po dobu výkonu práce/SVČ, pobírání započitatelného příjmu ze zaměstnání, vazby či výkonu trestu se dávka nevyplácí (byť nárok trvá). Výjimky: služební příspěvek na bydlení vojáků a PPM ženy pečující o dítě ve výkonu trestu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Vykonává pojištěnec v pojištěné činnosti práci/SVČ (písm. a)?
+- [ ] Náleží mu za totéž zaměstnání započitatelný příjem (písm. b; výjimka služební příspěvek na bydlení)?
+- [ ] Je ve vazbě / výkonu trestu (písm. c, d; výjimka PPM při péči o dítě)?
+
+**Typicky rozhodné důkazy / podklady:** rozhodnutí o DPN, doklady o vyplácených příjmech/náhradě mzdy za dotčené období, doklady o vazbě/výkonu trestu, potvrzení o péči o dítě.
+
 ---
 
 ### § 17 — Výplata po kalendářních dnech, poměrná část
@@ -929,6 +1562,41 @@ Všechny dávky se vyplácejí **za kalendářní dny** (nikoli za pracovní dny
 #### Poměrná výše ve dnech vzniku/zániku (odst. 2, 3)
 
 Pokud zaměstnanec ve dni vzniku nebo zániku nároku odpracoval jen část směny (a má za tu část nárok na mzdu), náleží dávka **poměrně** za tu část dne, za kterou mzda nenáleží. Příklad: zaměstnanec odpracoval ráno 4 hodiny z 8 (polovina směny) a poté byl uznán DPN — za tento den dostane 50 % denního nemocenského.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Zaměstnanec odpracoval ráno první 4 hodiny z 8hodinové směny (a za ně mu náleží mzda), poté byl v poledne uznán dočasně práce neschopným. Sporné je, zda mu za tento den náleží nemocenské celé, vůbec, nebo jen poměrně. Důkazy: rozpis směny, docházka, mzdový list (mzda za část dne), rozhodnutí o DPN.
+
+**2. Právní otázka.** V jaké výši náleží dávka za kalendářní den, v němž zaměstnanec odpracoval jen část směny a za ni mu náleží započitatelný příjem (§ 17 odst. 2)?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 17 odst. 1 (dávka za kalendářní dny, zaokrouhlení nahoru), odst. 2 (poměrná výše ve dni vzniku/zániku), odst. 3 (obdobně u pokračující DPN a u ošetřovného), odst. 4 (započtení do podpůrčí doby).
+- *Související ustanovení téhož zákona:* § 16 (vyloučení výplaty), § 18 a násl. (DVZ), § 23 a násl. (nemocenské), § 39 (ošetřovné).
+- *Související předpisy:* zákoník práce (§ 192 — náhrada mzdy v prvních 14 dnech).
+- *Judikatura:* obecný výklad poměrné výše dávky ve dnech přechodu mezi prací a sociální událostí.
+
+**4. Subsumpce.** Zaměstnanec odpracoval polovinu směny a za ni mu náleží mzda → za druhou polovinu (kdy mzda nenáleží) přísluší dávka v poměrné výši odpovídající této části. Den se započítá do podpůrčí doby (odst. 4).
+
+**5. Řešení.** Za daný kalendářní den náleží nemocenské v poměrné výši (cca polovina denní dávky), zaokrouhlené nahoru na celé koruny. V prvních 14 dnech DPN ovšem nemocenské nevyplácí ČSSZ, nýbrž zaměstnavatel poskytuje náhradu mzdy (§ 192 ZP) — § 17 se uplatní zejména na rozhraní výplat. Procesní krok: doložit, za jakou část dne mzda náležela.
+
+**6. Varianty.** (a) Zaměstnanec za odpracovanou část mzdu neměl → dávka náleží za celý kalendářní den. (b) Den propuštění ošetřované osoby z lůžkové péče, kdy pojištěnec pracoval jen část dne → poměrná výše dle odst. 3.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* „Dávka náleží jen za pracovní dny." Neutralizace: § 17 odst. 1 — dávky náleží za kalendářní dny, tedy včetně víkendů a svátků.
+- *Protiargument:* za den s odpracovanou částí směny dávka vůbec nenáleží. Neutralizace: odst. 2 stanoví poměrnou výši za část dne, za kterou mzda nenáleží.
+- *Slabé místo:* výpočet poměrné části a souběh s náhradou mzdy v prvních 14 dnech (§ 192 ZP) je administrativně náchylný k chybám.
+
+#### H. Praktický závěr
+
+Dávky se vyplácejí za kalendářní dny se zaokrouhlením denní výše nahoru. Ve dni vzniku či zániku nároku, kdy pojištěnec odpracoval jen část směny, náleží dávka poměrně za tu část dne, za kterou mu mzda nenáleží; takový den se započítává do podpůrčí doby.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Je výše dávky určena za kalendářní dny se zaokrouhlením nahoru (odst. 1)?
+- [ ] Odpracoval pojištěnec ve dni vzniku/zániku jen část směny s nárokem na mzdu (poměrná výše dle odst. 2, 3)?
+- [ ] Byl den správně započten do podpůrčí doby (odst. 4)?
+
+**Typicky rozhodné důkazy / podklady:** rozpis a evidence směn, mzdový list (mzda za část dne), rozhodnutí o DPN, podklady o hospitalizaci/propuštění ošetřované osoby.
 
 ---
 
