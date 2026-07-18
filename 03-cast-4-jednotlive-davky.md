@@ -281,6 +281,52 @@ Po 380 dnech lze nemocenské vyplácet jen na žádost, na základě lékařské
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=101693bfa9d35b988927 generator=2026-07-17.4 source_sha256=ab416bbe9afd7448fd4155b5ed8d7d9bd42f4325553e361cf3b584bec7452a8c -->
+#### Revizní doplnění k § 27
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 1. 4. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2006/187-2006 Zákon o nemocenském pojištění.md`; identifikátor verze: `SB-2006-00187_2026-04-01`; SHA-256: `ab416bbe9afd7448fd4155b5ed8d7d9bd42f4325553e361cf3b584bec7452a8c`.
+
+##### Znění ustanovení
+
+> Po uplynutí podpůrčí doby stanovené podle [[#§ 26|§ 26]] se nemocenské vyplácí na základě žádosti pojištěnce po dobu stanovenou v rozhodnutí orgánu nemocenského pojištění podle vyjádření lékaře orgánu nemocenského pojištění podle § 84b odst. 1 písm. j) nebo § 86 odst. 2 písm. e), pokud lze očekávat, že pojištěnec v krátké době, nejdéle však v době 350 kalendářních dnů od uplynutí podpůrčí doby stanovené podle [[#§ 26|§ 26]], nabude pracovní schopnost, a to i k jiné než dosavadní pojištěné činnosti; takto lze postupovat i opakovaně, přičemž při jednotlivém prodloužení výplaty nemocenského nesmí být doba tohoto prodloužení delší než 3 měsíce. Nemocenské lze podle věty první vyplácet celkem nejdéle po dobu 350 kalendářních dnů od uplynutí podpůrčí doby stanovené podle [[#§ 26|§ 26]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26, § 84b, § 86
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=101693bfa9d35b988927 -->
+
 ### § 28 — Podpůrčí doba u zvláštních kategorií pojištěnců
 
 > **§ 28**
